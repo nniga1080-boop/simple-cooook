@@ -1,0 +1,1789 @@
+{
+ "achiote-paste": {
+  "en": "Achiote paste",
+  "fr": "Pâte d’achiote",
+  "ar": "معجون الأناتو",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "allspice": {
+  "en": "Allspice",
+  "fr": "Piment de la Jamaïque",
+  "ar": "الفلفل الجامايكي",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "almonds": {
+  "en": "Almonds",
+  "fr": "Amandes",
+  "ar": "لوز",
+  "category": "nut-seed",
+  "allergens": [
+   "nuts"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "apricot-jam": {
+  "en": "Apricot jam",
+  "fr": "Confiture d’abricot",
+  "ar": "مربى المشمش",
+  "category": "sweetener",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "bacon": {
+  "en": "Bacon",
+  "fr": "Bacon",
+  "ar": "لحم الخنزير المقدد",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "baking-powder": {
+  "en": "Baking powder",
+  "fr": "Levure chimique",
+  "ar": "بيكنج باودر",
+  "category": "baking",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "basil": {
+  "en": "Basil",
+  "fr": "Basilic",
+  "ar": "ريحان",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "bay-leaf": {
+  "en": "Bay leaf",
+  "fr": "Feuille de laurier",
+  "ar": "ورق الغار",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "bean-sprouts": {
+  "en": "Bean sprouts",
+  "fr": "Germes de soja",
+  "ar": "براعم الفاصولياء",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beef-bones": {
+  "en": "Beef bones",
+  "fr": "Os de bœuf",
+  "ar": "عظام البقر",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beef-mince": {
+  "en": "Minced beef",
+  "fr": "Bœuf haché",
+  "ar": "لحم بقري مفروم",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beef-sirloin": {
+  "en": "Beef sirloin",
+  "fr": "Faux-filet de bœuf",
+  "ar": "سيرلوين لحم البقر",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beef-stew-meat": {
+  "en": "Stewing beef",
+  "fr": "Bœuf à braiser",
+  "ar": "لحم بقري للطهي",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beef-stock": {
+  "en": "Beef stock",
+  "fr": "Bouillon de bœuf",
+  "ar": "مرق لحم البقر",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beetroot": {
+  "en": "Beetroot",
+  "fr": "Betterave",
+  "ar": "شمندر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "bell-pepper": {
+  "en": "Bell pepper",
+  "fr": "Poivron",
+  "ar": "فلفل حلو",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "berbere": {
+  "en": "Berbere spice blend",
+  "fr": "Mélange d’épices berbéré",
+  "ar": "بهارات بربري",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "black-beans-dried": {
+  "en": "Black beans (dried)",
+  "fr": "Haricots noirs secs",
+  "ar": "فاصولياء سوداء جافة",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "black-pepper": {
+  "en": "Black pepper",
+  "fr": "Poivre noir",
+  "ar": "فلفل أسود",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "black-peppercorn": {
+  "en": "Black peppercorns",
+  "fr": "Grains de poivre noir",
+  "ar": "حبوب الفلفل الأسود",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "bread-slice": {
+  "en": "Bread",
+  "fr": "Pain",
+  "ar": "خبز",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "bulgur": {
+  "en": "Bulgur",
+  "fr": "Boulgour",
+  "ar": "برغل",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "butter": {
+  "en": "Butter",
+  "fr": "Beurre",
+  "ar": "زبدة",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "butter-beans": {
+  "en": "Butter beans",
+  "fr": "Haricots de Lima",
+  "ar": "فاصولياء ليما",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cabbage": {
+  "en": "Cabbage",
+  "fr": "Chou",
+  "ar": "ملفوف",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "capers": {
+  "en": "Capers",
+  "fr": "Câpres",
+  "ar": "كبر",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "caraway-seed": {
+  "en": "Caraway seeds",
+  "fr": "Graines de carvi",
+  "ar": "كراوية",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "carrot": {
+  "en": "Carrot",
+  "fr": "Carotte",
+  "ar": "جزر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "celery": {
+  "en": "Celery",
+  "fr": "Céleri",
+  "ar": "كرفس",
+  "category": "vegetable",
+  "allergens": [
+   "celery"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "cheese-curds": {
+  "en": "Cheese curds",
+  "fr": "Fromage en grains",
+  "ar": "خثارة الجبن",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "cheese-minas": {
+  "en": "Minas cheese",
+  "fr": "Fromage de Minas",
+  "ar": "جبنة ميناس",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "chicken-breast": {
+  "en": "Chicken breast",
+  "fr": "Blanc de poulet",
+  "ar": "صدر دجاج",
+  "category": "poultry",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chicken-pieces": {
+  "en": "Chicken pieces",
+  "fr": "Morceaux de poulet",
+  "ar": "قطع دجاج",
+  "category": "poultry",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chicken-stock": {
+  "en": "Chicken stock",
+  "fr": "Bouillon de poulet",
+  "ar": "مرق الدجاج",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chicken-thigh": {
+  "en": "Chicken thigh",
+  "fr": "Cuisse de poulet",
+  "ar": "فخذ دجاج",
+  "category": "poultry",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chickpeas-cooked": {
+  "en": "Chickpeas (cooked)",
+  "fr": "Pois chiches cuits",
+  "ar": "حمص مطبوخ",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chickpeas-dried": {
+  "en": "Chickpeas (dried)",
+  "fr": "Pois chiches secs",
+  "ar": "حمص جاف",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-aji": {
+  "en": "Aji chilli",
+  "fr": "Piment aji",
+  "ar": "فلفل أجي",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-ancho": {
+  "en": "Ancho chilli",
+  "fr": "Piment ancho",
+  "ar": "فلفل أنشو",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-flakes": {
+  "en": "Chilli flakes",
+  "fr": "Piment en flocons",
+  "ar": "رقائق الفلفل الحار",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-fresh": {
+  "en": "Fresh chilli",
+  "fr": "Piment frais",
+  "ar": "فلفل حار طازج",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-guajillo": {
+  "en": "Guajillo chilli (dried)",
+  "fr": "Piment guajillo séché",
+  "ar": "فلفل غواخيو مجفف",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "chili-powder": {
+  "en": "Chilli powder",
+  "fr": "Piment en poudre",
+  "ar": "مسحوق الفلفل الحار",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cinnamon-ground": {
+  "en": "Ground cinnamon",
+  "fr": "Cannelle moulue",
+  "ar": "قرفة مطحونة",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cinnamon-stick": {
+  "en": "Cinnamon stick",
+  "fr": "Bâton de cannelle",
+  "ar": "عود قرفة",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "clove": {
+  "en": "Cloves",
+  "fr": "Clous de girofle",
+  "ar": "قرنفل",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "coconut-milk": {
+  "en": "Coconut milk",
+  "fr": "Lait de coco",
+  "ar": "حليب جوز الهند",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "collard-greens": {
+  "en": "Collard greens",
+  "fr": "Chou vert",
+  "ar": "كرنب أخضر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "coriander": {
+  "en": "Fresh coriander",
+  "fr": "Coriandre fraîche",
+  "ar": "كزبرة طازجة",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "coriander-ground": {
+  "en": "Ground coriander",
+  "fr": "Coriandre moulue",
+  "ar": "كزبرة مطحونة",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "corn-cob": {
+  "en": "Corn on the cob",
+  "fr": "Épi de maïs",
+  "ar": "كوز ذرة",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cornstarch": {
+  "en": "Cornstarch",
+  "fr": "Fécule de maïs",
+  "ar": "نشا الذرة",
+  "category": "baking",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "couscous": {
+  "en": "Couscous",
+  "fr": "Couscous",
+  "ar": "كسكس",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "crayfish-ground": {
+  "en": "Ground dried crayfish",
+  "fr": "Écrevisses séchées moulues",
+  "ar": "سرطان النهر المجفف المطحون",
+  "category": "seafood",
+  "allergens": [
+   "crustaceans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "cream": {
+  "en": "Cream",
+  "fr": "Crème",
+  "ar": "كريمة",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "cucumber": {
+  "en": "Cucumber",
+  "fr": "Concombre",
+  "ar": "خيار",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cumin-ground": {
+  "en": "Ground cumin",
+  "fr": "Cumin moulu",
+  "ar": "كمون مطحون",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cumin-seed": {
+  "en": "Cumin seeds",
+  "fr": "Graines de cumin",
+  "ar": "بذور الكمون",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "curry-powder": {
+  "en": "Curry powder",
+  "fr": "Poudre de curry",
+  "ar": "بودرة الكاري",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "dill": {
+  "en": "Dill",
+  "fr": "Aneth",
+  "ar": "شبت",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "doubanjiang": {
+  "en": "Doubanjiang (chilli bean paste)",
+  "fr": "Doubanjiang (pâte de fèves pimentée)",
+  "ar": "معجون الفول الحار دوبان جيانغ",
+  "category": "condiment",
+  "allergens": [
+   "soybeans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "egg": {
+  "en": "Egg",
+  "fr": "Œuf",
+  "ar": "بيض",
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "egg-white": {
+  "en": "Egg white",
+  "fr": "Blanc d’œuf",
+  "ar": "بياض البيض",
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "egg-yolk": {
+  "en": "Egg yolk",
+  "fr": "Jaune d’œuf",
+  "ar": "صفار البيض",
+  "category": "egg",
+  "allergens": [
+   "eggs"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "eggplant": {
+  "en": "Aubergine (eggplant)",
+  "fr": "Aubergine",
+  "ar": "باذنجان",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "egusi-ground": {
+  "en": "Ground egusi (melon seeds)",
+  "fr": "Egusi moulu (graines de melon)",
+  "ar": "إيغوسي مطحون بذور البطيخ",
+  "category": "nut-seed",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "farmers-cheese": {
+  "en": "Farmer’s cheese",
+  "fr": "Fromage frais égoutté",
+  "ar": "جبنة المزارعين",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "fava-beans-cooked": {
+  "en": "Fava beans (cooked)",
+  "fr": "Fèves cuites",
+  "ar": "فول مطبوخ",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "fava-beans-dried": {
+  "en": "Fava beans (dried)",
+  "fr": "Fèves sèches",
+  "ar": "فول جاف",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "fenugreek-leaves": {
+  "en": "Dried fenugreek leaves",
+  "fr": "Feuilles de fenugrec séchées",
+  "ar": "أوراق الحلبة المجففة",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "filo-sheet": {
+  "en": "Filo or brik pastry sheet",
+  "fr": "Feuille de brick ou filo",
+  "ar": "عجينة الفيلو أو البريك",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "fish-sauce": {
+  "en": "Fish sauce",
+  "fr": "Sauce de poisson",
+  "ar": "صلصة السمك",
+  "category": "condiment",
+  "allergens": [
+   "fish"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "flatbread": {
+  "en": "Flatbread",
+  "fr": "Pain plat",
+  "ar": "خبز مسطح",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "flour-wheat": {
+  "en": "Wheat flour",
+  "fr": "Farine de blé",
+  "ar": "دقيق القمح",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "freekeh": {
+  "en": "Freekeh",
+  "fr": "Freekeh",
+  "ar": "فريك",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "garam-masala": {
+  "en": "Garam masala",
+  "fr": "Garam masala",
+  "ar": "غرام مسالا",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "garlic": {
+  "en": "Garlic",
+  "fr": "Ail",
+  "ar": "ثوم",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "ghee": {
+  "en": "Ghee",
+  "fr": "Ghee",
+  "ar": "سمن",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "ginger-fresh": {
+  "en": "Fresh ginger",
+  "fr": "Gingembre frais",
+  "ar": "زنجبيل طازج",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "ginger-garlic-paste": {
+  "en": "Ginger-garlic paste",
+  "fr": "Pâte gingembre-ail",
+  "ar": "معجون الزنجبيل والثوم",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "ginger-ground": {
+  "en": "Ground ginger",
+  "fr": "Gingembre moulu",
+  "ar": "زنجبيل مطحون",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "gochujang": {
+  "en": "Gochujang",
+  "fr": "Gochujang",
+  "ar": "معجون الفلفل الكوري غوتشوجانغ",
+  "category": "condiment",
+  "allergens": [
+   "soybeans",
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "green-beans": {
+  "en": "Green beans",
+  "fr": "Haricots verts",
+  "ar": "فاصولياء خضراء",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "green-olives": {
+  "en": "Green olives",
+  "fr": "Olives vertes",
+  "ar": "زيتون أخضر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "guanciale": {
+  "en": "Guanciale",
+  "fr": "Guanciale",
+  "ar": "لحم خد الخنزير المقدد غوانتشالي",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "jameed": {
+  "en": "Jameed (dried fermented yoghurt)",
+  "fr": "Jameed (yaourt fermenté séché)",
+  "ar": "جميد",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "kale": {
+  "en": "Kale",
+  "fr": "Chou kale",
+  "ar": "كرنب كيل",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "kecap-manis": {
+  "en": "Kecap manis (sweet soy sauce)",
+  "fr": "Kecap manis (sauce soja sucrée)",
+  "ar": "صلصة الصويا الحلوة",
+  "category": "condiment",
+  "allergens": [
+   "soybeans",
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "kefalotyri": {
+  "en": "Kefalotyri cheese",
+  "fr": "Fromage kefalotyri",
+  "ar": "جبنة كفالوتيري",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "kiwi": {
+  "en": "Kiwi",
+  "fr": "Kiwi",
+  "ar": "كيوي",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lamb-mince": {
+  "en": "Minced lamb",
+  "fr": "Agneau haché",
+  "ar": "لحم ضأن مفروم",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lamb-shoulder": {
+  "en": "Lamb shoulder",
+  "fr": "Épaule d’agneau",
+  "ar": "كتف ضأن",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lemon": {
+  "en": "Lemon",
+  "fr": "Citron",
+  "ar": "ليمون",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lemon-juice": {
+  "en": "Lemon juice",
+  "fr": "Jus de citron",
+  "ar": "عصير الليمون",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lentils-brown": {
+  "en": "Brown lentils",
+  "fr": "Lentilles brunes",
+  "ar": "عدس بني",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lentils-yellow": {
+  "en": "Yellow lentils",
+  "fr": "Lentilles jaunes",
+  "ar": "عدس أصفر",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lime": {
+  "en": "Lime",
+  "fr": "Citron vert",
+  "ar": "ليمون أخضر",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "macaroni": {
+  "en": "Macaroni",
+  "fr": "Macaroni",
+  "ar": "معكرونة",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "maize-meal": {
+  "en": "Maize meal",
+  "fr": "Farine de maïs",
+  "ar": "دقيق الذرة",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "milk": {
+  "en": "Milk",
+  "fr": "Lait",
+  "ar": "حليب",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "mirin": {
+  "en": "Mirin",
+  "fr": "Mirin",
+  "ar": "ميرين",
+  "category": "condiment",
+  "allergens": [
+   "alcohol"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "mushroom": {
+  "en": "Mushrooms",
+  "fr": "Champignons",
+  "ar": "فطر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "niter-kibbeh": {
+  "en": "Niter kibbeh (spiced clarified butter)",
+  "fr": "Niter kibbeh (beurre clarifié épicé)",
+  "ar": "زبدة مصفاة متبلة",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "nori": {
+  "en": "Nori",
+  "fr": "Nori",
+  "ar": "نوري أعشاب بحرية",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "olive-oil": {
+  "en": "Olive oil",
+  "fr": "Huile d’olive",
+  "ar": "زيت الزيتون",
+  "category": "oil-fat",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "onion": {
+  "en": "Onion",
+  "fr": "Oignon",
+  "ar": "بصل",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "onion-spring": {
+  "en": "Spring onion",
+  "fr": "Oignon vert",
+  "ar": "بصل أخضر",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "orange": {
+  "en": "Orange",
+  "fr": "Orange",
+  "ar": "برتقال",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "orange-juice": {
+  "en": "Orange juice",
+  "fr": "Jus d’orange",
+  "ar": "عصير البرتقال",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "oregano-dried": {
+  "en": "Dried oregano",
+  "fr": "Origan séché",
+  "ar": "أوريغانو مجفف",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "palm-oil": {
+  "en": "Red palm oil",
+  "fr": "Huile de palme rouge",
+  "ar": "زيت النخيل الأحمر",
+  "category": "oil-fat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "palm-sugar": {
+  "en": "Palm sugar",
+  "fr": "Sucre de palme",
+  "ar": "سكر النخيل",
+  "category": "sweetener",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "pancetta": {
+  "en": "Pancetta",
+  "fr": "Pancetta",
+  "ar": "بانسيتا",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "paprika": {
+  "en": "Paprika",
+  "fr": "Paprika",
+  "ar": "بابريكا",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "paprika-smoked": {
+  "en": "Smoked paprika",
+  "fr": "Paprika fumé",
+  "ar": "بابريكا مدخنة",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "parmesan": {
+  "en": "Parmesan",
+  "fr": "Parmesan",
+  "ar": "بارميزان",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "parsley": {
+  "en": "Parsley",
+  "fr": "Persil",
+  "ar": "بقدونس",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "passionfruit": {
+  "en": "Passionfruit",
+  "fr": "Fruit de la passion",
+  "ar": "فاكهة العاطفة",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "peanuts": {
+  "en": "Peanuts",
+  "fr": "Cacahuètes",
+  "ar": "فول سوداني",
+  "category": "nut-seed",
+  "allergens": [
+   "peanuts"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pecorino-romano": {
+  "en": "Pecorino Romano",
+  "fr": "Pecorino romano",
+  "ar": "بيكورينو رومانو",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pine-nuts": {
+  "en": "Pine nuts",
+  "fr": "Pignons de pin",
+  "ar": "صنوبر",
+  "category": "nut-seed",
+  "allergens": [
+   "nuts"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pineapple": {
+  "en": "Pineapple",
+  "fr": "Ananas",
+  "ar": "أناناس",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "pork-belly": {
+  "en": "Pork belly",
+  "fr": "Poitrine de porc",
+  "ar": "بطن الخنزير",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pork-mince": {
+  "en": "Minced pork",
+  "fr": "Porc haché",
+  "ar": "لحم خنزير مفروم",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pork-ribs-smoked": {
+  "en": "Smoked pork ribs",
+  "fr": "Côtes de porc fumées",
+  "ar": "أضلاع الخنزير المدخنة",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "pork-shoulder": {
+  "en": "Pork shoulder",
+  "fr": "Épaule de porc",
+  "ar": "كتف الخنزير",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "potato": {
+  "en": "Potato",
+  "fr": "Pomme de terre",
+  "ar": "بطاطس",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "potato-boiled": {
+  "en": "Boiled potato",
+  "fr": "Pomme de terre bouillie",
+  "ar": "بطاطس مسلوقة",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "prawns": {
+  "en": "Prawns",
+  "fr": "Crevettes",
+  "ar": "جمبري",
+  "category": "seafood",
+  "allergens": [
+   "crustaceans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "preserved-lemon": {
+  "en": "Preserved lemon",
+  "fr": "Citron confit",
+  "ar": "ليمون مصبر",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "pumpkin": {
+  "en": "Pumpkin",
+  "fr": "Potiron",
+  "ar": "يقطين",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "rabbit": {
+  "en": "Rabbit",
+  "fr": "Lapin",
+  "ar": "أرنب",
+  "category": "meat",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "raisins": {
+  "en": "Raisins",
+  "fr": "Raisins secs",
+  "ar": "زبيب",
+  "category": "fruit",
+  "allergens": [
+   "sulphites"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "ramen-noodles": {
+  "en": "Ramen noodles",
+  "fr": "Nouilles ramen",
+  "ar": "نودلز الرامن",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "ras-el-hanout": {
+  "en": "Ras el hanout",
+  "fr": "Ras el hanout",
+  "ar": "رأس الحانوت",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "rice-long-grain": {
+  "en": "Long-grain rice",
+  "fr": "Riz long grain",
+  "ar": "أرز طويل الحبة",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "rice-noodles": {
+  "en": "Rice noodles",
+  "fr": "Nouilles de riz",
+  "ar": "شعيرية الأرز",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "rice-short-grain": {
+  "en": "Short-grain rice",
+  "fr": "Riz à grains courts",
+  "ar": "أرز قصير الحبة",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "rice-white": {
+  "en": "White rice",
+  "fr": "Riz blanc",
+  "ar": "أرز أبيض",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "ricotta": {
+  "en": "Ricotta",
+  "fr": "Ricotta",
+  "ar": "ريكوتا",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "saffron": {
+  "en": "Saffron",
+  "fr": "Safran",
+  "ar": "زعفران",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "salt": {
+  "en": "Salt",
+  "fr": "Sel",
+  "ar": "ملح",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "sausage-smoked": {
+  "en": "Smoked sausage (pork)",
+  "fr": "Saucisse fumée (porc)",
+  "ar": "نقانق مدخنة لحم الخنزير",
+  "category": "meat",
+  "allergens": [
+   "pork"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "scotch-bonnet": {
+  "en": "Scotch bonnet chilli",
+  "fr": "Piment scotch bonnet",
+  "ar": "فلفل سكوتش بونيت",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sesame-oil": {
+  "en": "Sesame oil",
+  "fr": "Huile de sésame",
+  "ar": "زيت السمسم",
+  "category": "oil-fat",
+  "allergens": [
+   "sesame"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "sesame-seed": {
+  "en": "Sesame seeds",
+  "fr": "Graines de sésame",
+  "ar": "بذور السمسم",
+  "category": "nut-seed",
+  "allergens": [
+   "sesame"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "shallot": {
+  "en": "Shallot",
+  "fr": "Échalote",
+  "ar": "بصل الشالوت",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sichuan-pepper": {
+  "en": "Sichuan pepper",
+  "fr": "Poivre du Sichuan",
+  "ar": "فلفل سيتشوان",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sour-cream": {
+  "en": "Sour cream",
+  "fr": "Crème aigre",
+  "ar": "كريمة حامضة",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "soy-sauce": {
+  "en": "Soy sauce",
+  "fr": "Sauce soja",
+  "ar": "صلصة الصويا",
+  "category": "condiment",
+  "allergens": [
+   "soybeans",
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "spaghetti": {
+  "en": "Spaghetti",
+  "fr": "Spaghetti",
+  "ar": "سباغيتي",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "spinach": {
+  "en": "Spinach",
+  "fr": "Épinards",
+  "ar": "سبانخ",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "star-anise": {
+  "en": "Star anise",
+  "fr": "Anis étoilé",
+  "ar": "يانسون نجمي",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "strawberries": {
+  "en": "Strawberries",
+  "fr": "Fraises",
+  "ar": "فراولة",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sugar": {
+  "en": "Sugar",
+  "fr": "Sucre",
+  "ar": "سكر",
+  "category": "sweetener",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "sunflower-oil": {
+  "en": "Sunflower oil",
+  "fr": "Huile de tournesol",
+  "ar": "زيت دوار الشمس",
+  "category": "oil-fat",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "sunflower-seed-butter": {
+  "en": "Sunflower seed butter",
+  "fr": "Beurre de graines de tournesol",
+  "ar": "زبدة بذور عباد الشمس",
+  "category": "nut-seed",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sweet-potato": {
+  "en": "Sweet potato",
+  "fr": "Patate douce",
+  "ar": "بطاطا حلوة",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tahini": {
+  "en": "Tahini",
+  "fr": "Tahini",
+  "ar": "طحينة",
+  "category": "nut-seed",
+  "allergens": [
+   "sesame"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "tamarind-paste": {
+  "en": "Tamarind paste",
+  "fr": "Pâte de tamarin",
+  "ar": "معجون التمر الهندي",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tapioca-starch": {
+  "en": "Tapioca starch",
+  "fr": "Fécule de tapioca",
+  "ar": "نشا التابيوكا",
+  "category": "baking",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "thyme-dried": {
+  "en": "Dried thyme",
+  "fr": "Thym séché",
+  "ar": "زعتر مجفف",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "thyme-fresh": {
+  "en": "Fresh thyme",
+  "fr": "Thym frais",
+  "ar": "زعتر طازج",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tofu": {
+  "en": "Tofu",
+  "fr": "Tofu",
+  "ar": "توفو",
+  "category": "legume",
+  "allergens": [
+   "soybeans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "tofu-firm": {
+  "en": "Firm tofu",
+  "fr": "Tofu ferme",
+  "ar": "توفو صلب",
+  "category": "legume",
+  "allergens": [
+   "soybeans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "tofu-silken": {
+  "en": "Silken tofu",
+  "fr": "Tofu soyeux",
+  "ar": "توفو حريري",
+  "category": "legume",
+  "allergens": [
+   "soybeans"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "tomato": {
+  "en": "Tomato",
+  "fr": "Tomate",
+  "ar": "طماطم",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tomato-canned": {
+  "en": "Canned tomatoes",
+  "fr": "Tomates en conserve",
+  "ar": "طماطم معلبة",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tomato-paste": {
+  "en": "Tomato paste",
+  "fr": "Concentré de tomate",
+  "ar": "معجون الطماطم",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tortilla-corn": {
+  "en": "Corn tortilla",
+  "fr": "Tortilla de maïs",
+  "ar": "تورتيلا الذرة",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "tuna-canned": {
+  "en": "Canned tuna",
+  "fr": "Thon en conserve",
+  "ar": "تونة معلبة",
+  "category": "fish",
+  "allergens": [
+   "fish"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "turmeric": {
+  "en": "Turmeric",
+  "fr": "Curcuma",
+  "ar": "كركم",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "turnip": {
+  "en": "Turnip",
+  "fr": "Navet",
+  "ar": "لفت",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "vanilla-extract": {
+  "en": "Vanilla extract",
+  "fr": "Extrait de vanille",
+  "ar": "مستخلص الفانيليا",
+  "category": "baking",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "vegetable-stock": {
+  "en": "Vegetable stock",
+  "fr": "Bouillon de légumes",
+  "ar": "مرق الخضار",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "vinegar-cane": {
+  "en": "Cane vinegar",
+  "fr": "Vinaigre de canne",
+  "ar": "خل قصب السكر",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "vinegar-white": {
+  "en": "White vinegar",
+  "fr": "Vinaigre blanc",
+  "ar": "خل أبيض",
+  "category": "condiment",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "water": {
+  "en": "Water",
+  "fr": "Eau",
+  "ar": "ماء",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed",
+  "pantry": true
+ },
+ "white-fish-fillet": {
+  "en": "White fish fillet",
+  "fr": "Filet de poisson blanc",
+  "ar": "فيليه سمك أبيض",
+  "category": "fish",
+  "allergens": [
+   "fish"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "worcestershire-sauce": {
+  "en": "Worcestershire sauce",
+  "fr": "Sauce Worcestershire",
+  "ar": "صلصة ورسترشير",
+  "category": "condiment",
+  "allergens": [
+   "fish"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "yogurt-plain": {
+  "en": "Plain yogurt",
+  "fr": "Yaourt nature",
+  "ar": "زبادي سادة",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "zucchini": {
+  "en": "Courgette (zucchini)",
+  "fr": "Courgette",
+  "ar": "كوسة",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "semolina": {
+  "en": "Semolina",
+  "fr": "Semoule",
+  "ar": "سميد",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "dates": {
+  "en": "Dates",
+  "fr": "Dattes",
+  "ar": "تمر",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "honey": {
+  "en": "Honey",
+  "fr": "Miel",
+  "ar": "عسل",
+  "category": "honey",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "orange-blossom-water": {
+  "en": "Orange blossom water",
+  "fr": "Eau de fleur d’oranger",
+  "ar": "ماء الزهر",
+  "category": "liquid",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lentils-red": {
+  "en": "Red lentils",
+  "fr": "Lentilles corail",
+  "ar": "عدس أحمر",
+  "category": "legume",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "mint": {
+  "en": "Mint",
+  "fr": "Menthe",
+  "ar": "نعناع",
+  "category": "herb",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "sumac": {
+  "en": "Sumac",
+  "fr": "Sumac",
+  "ar": "سماق",
+  "category": "spice",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "lettuce": {
+  "en": "Lettuce",
+  "fr": "Laitue",
+  "ar": "خس",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "paneer": {
+  "en": "Paneer",
+  "fr": "Paneer",
+  "ar": "جبن بانير",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "cauliflower": {
+  "en": "Cauliflower",
+  "fr": "Chou-fleur",
+  "ar": "قرنبيط",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "kimchi": {
+  "en": "Kimchi (usually contains fish sauce)",
+  "fr": "Kimchi (contient généralement de la sauce de poisson)",
+  "ar": "كيمتشي",
+  "category": "vegetable",
+  "allergens": [
+   "fish"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "mayonnaise": {
+  "en": "Mayonnaise",
+  "fr": "Mayonnaise",
+  "ar": "مايونيز",
+  "category": "condiment",
+  "allergens": [
+   "eggs"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "peas": {
+  "en": "Green peas",
+  "fr": "Petits pois",
+  "ar": "بازلاء",
+  "category": "vegetable",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "beer": {
+  "en": "Beer",
+  "fr": "Bière",
+  "ar": "بيرة",
+  "category": "liquid",
+  "allergens": [
+   "gluten",
+   "alcohol"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "feta": {
+  "en": "Feta",
+  "fr": "Feta",
+  "ar": "جبنة فيتا",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "yeast": {
+  "en": "Dry yeast",
+  "fr": "Levure sèche",
+  "ar": "خميرة جافة",
+  "category": "baking",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "mozzarella": {
+  "en": "Mozzarella",
+  "fr": "Mozzarella",
+  "ar": "موزاريلا",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "red-wine": {
+  "en": "Red wine",
+  "fr": "Vin rouge",
+  "ar": "نبيذ أحمر",
+  "category": "liquid",
+  "allergens": [
+   "alcohol",
+   "sulphites"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "avocado": {
+  "en": "Avocado",
+  "fr": "Avocat",
+  "ar": "أفوكادو",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "maize-flour-precooked": {
+  "en": "Pre-cooked maize flour",
+  "fr": "Farine de maïs précuite",
+  "ar": "دقيق الذرة المطبوخ مسبقا",
+  "category": "grain",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "plantain": {
+  "en": "Plantain",
+  "fr": "Banane plantain",
+  "ar": "موز الجنة",
+  "category": "fruit",
+  "allergens": [],
+  "translation_status": "unreviewed"
+ },
+ "cheddar": {
+  "en": "Cheddar cheese",
+  "fr": "Cheddar",
+  "ar": "جبنة شيدر",
+  "category": "dairy",
+  "allergens": [
+   "milk"
+  ],
+  "translation_status": "unreviewed"
+ },
+ "noodles-thin": {
+  "en": "Thin wheat noodles (rechta or fine tagliatelle)",
+  "fr": "Nouilles fines (rechta ou tagliatelles fines)",
+  "ar": "شعيرية رقيقة رشتة",
+  "category": "grain",
+  "allergens": [
+   "gluten"
+  ],
+  "translation_status": "unreviewed"
+ }
+}

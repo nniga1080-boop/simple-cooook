@@ -1,0 +1,7 @@
+{
+ "_note": "Recipe photographs. status 'owner_supplied' = the project owner supplied the file; its original source and licence are NOT confirmed and must be confirmed before any public launch. See docs/RECIPE_IMAGE_LICENSING.md.",
+ "shoyu-ramen": {"file": "assets/recipes/shoyu-ramen.webp", "alt": "Bowl of ramen: noodles lifted with chopsticks over sliced pork, a halved soft-boiled egg, bamboo shoots and spring onion", "match": "approximate: the bowl has a creamy, pork-bone (tonkotsu-style) broth; this recipe makes a clear soy (shoyu) broth", "status": "owner_supplied"},
+ "vegetable-couscous": {"file": "assets/recipes/vegetable-couscous.webp", "alt": "Large decorated platter of couscous topped with carrots, courgettes, pumpkin, potato, chickpeas and caramelised onion with almonds", "match": "good (the dish pictured is a Moroccan-style seven-vegetable couscous with extras)", "status": "owner_supplied"},
+ "tacos-al-pastor": {"file": "assets/recipes/tacos-al-pastor.webp", "alt": "Tacos on corn tortillas filled with chopped grilled meat, onion and coriander, with lime wedges, on a wooden board", "match": "approximate: shows street-style tacos with chopped meat, not necessarily al pastor (no visible pineapple)", "status": "owner_supplied"},
+ "spaghetti-carbonara": {"file": "assets/recipes/spaghetti-carbonara.webp", "alt": "Plate of spaghetti with crisp cured pork, grated pecorino and black pepper", "match": "good", "status": "owner_supplied"}
+}

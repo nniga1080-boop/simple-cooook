@@ -1,0 +1,1193 @@
+[
+ {
+  "id": "vegetable-couscous",
+  "name": "Vegetable couscous",
+  "local": "كسكسي بالخضر",
+  "tr": {
+   "fr": "Couscous aux légumes",
+   "ar": "كسكسي بالخضر"
+  },
+  "desc": "Fine semolina grains steamed until fluffy and piled under a pot of chickpeas, carrots, turnips, courgettes and pumpkin in a lightly spiced broth. The everyday-and-festive dish of the Maghreb.",
+  "origin_note": "Couscous is a shared heritage of Algeria, Mauritania, Morocco and Tunisia, jointly inscribed by UNESCO in 2020. Vegetable choices, spices and the broth differ by region, family and season, so this is one common home-style version, not the version.",
+  "confidence": "high",
+  "countries": [
+   "DZ",
+   "MA",
+   "TN",
+   "MR"
+  ],
+  "primary": "DZ",
+  "cuisine": "Maghrebi",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 30,
+  "cook": 60,
+  "rest": 10,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "500 g|couscous|medium-grain",
+   "3 tbsp|olive-oil",
+   "2|onion|sliced",
+   "2 tbsp|tomato-paste",
+   "250 g|chickpeas-cooked|drained",
+   "3|carrot|peeled, cut in 4 cm pieces",
+   "2|turnip|peeled, quartered",
+   "3|zucchini|cut in 4 cm pieces",
+   "300 g|pumpkin|cut in large chunks",
+   "1 tsp|turmeric",
+   "1 tsp|black-pepper",
+   "1|cinnamon-stick",
+   "1 tsp|salt|plus extra for the couscous",
+   "1.5 l|water",
+   "25 g|butter|for the couscous",
+   "?1 tsp|ras-el-hanout"
+  ],
+  "steps": [
+   "Soften the onion|8|Warm the olive oil in a large, deep pot over medium heat. Add the sliced onion and cook 6 to 8 minutes, stirring, until soft and translucent but not browned.",
+   "Build the broth|5|Stir in the tomato paste, turmeric, pepper, cinnamon stick and ras el hanout if using; cook 1 minute until fragrant. Pour in the water, add 1 tsp salt and bring to a boil.",
+   "Cook the firm vegetables|20|Add the carrots, turnips and chickpeas. Reduce to a steady simmer, partly cover and cook 20 minutes, until the carrots begin to give when pierced.",
+   "Add the soft vegetables|20|Add the pumpkin and courgettes and simmer another 15 to 20 minutes, until every vegetable is tender but still holds its shape. Taste the broth and adjust the salt.",
+   "First steaming|15|Spread the couscous in a wide dish, sprinkle with 1 tbsp oil or a little water and 1/2 tsp salt, and rub with your fingertips to separate the grains. Place in a steamer or colander lined with cloth set over the simmering pot, cover and steam 15 minutes.",
+   "Rehydrate and fluff|10|Tip the couscous back into the dish, sprinkle with about 120 ml cooled broth, rub to break any lumps and let it absorb for 5 minutes. Steam again 10 minutes, then fluff with the butter until the grains are light and separate.",
+   "Serve|2|Mound the couscous on a large platter, make a well, arrange the vegetables and chickpeas on top and ladle over some broth. Serve the remaining broth on the side."
+  ],
+  "tips": [
+   "The grains are ready when they are tender and separate with no hard centre; a third steaming gives the lightest result.",
+   "Add vegetables in order of cooking time so nothing turns to mush."
+  ],
+  "mistakes": [
+   "Adding all the water to the couscous at once makes it gummy.",
+   "Overcooking the courgettes; add them late."
+  ],
+  "storage": "Keep couscous and the vegetable broth in separate airtight containers in the fridge for up to 3 days.",
+  "reheat": "Steam the couscous briefly or microwave with a splash of water; reheat the broth on the hob until simmering.",
+  "subs": [
+   "couscous>bulgur|coarser, longer cooking",
+   "butter>olive-oil|keeps it dairy-free"
+  ],
+  "tags": [
+   "couscous",
+   "vegetables",
+   "unesco",
+   "family"
+  ],
+  "occasion": [
+   "Friday lunch",
+   "family gathering"
+  ],
+  "refs": [
+   "https://ich.unesco.org/en/decisions/15.COM/8.B.14",
+   "https://ich.unesco.org/en/RL/couscous-mediterranean-01602"
+  ],
+  "related": [
+   "chorba-frik",
+   "chicken-tagine-preserved-lemon"
+  ]
+ },
+ {
+  "id": "chorba-frik",
+  "name": "Chorba frik",
+  "local": "شربة فريك",
+  "tr": {
+   "fr": "Chorba frik",
+   "ar": "شربة فريك"
+  },
+  "desc": "A thick, tomato-red Algerian soup of lamb, cracked green wheat (freekeh), chickpeas and fresh coriander, finished with lemon. Closely associated with the evening meal that breaks the fast in Ramadan.",
+  "origin_note": "Chorba frik is a staple of Algerian cuisine, especially in Ramadan. Soups with freekeh and meat exist across the Maghreb and the Levant; this version follows the Algerian style.",
+  "confidence": "high",
+  "countries": [
+   "DZ"
+  ],
+  "primary": "DZ",
+  "cuisine": "Algerian",
+  "meal": [
+   "soup",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 80,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "400 g|lamb-shoulder|cut in 2 cm cubes",
+   "2 tbsp|olive-oil",
+   "1|onion|finely chopped",
+   "2 tbsp|tomato-paste",
+   "1 tsp|black-pepper",
+   "1 tsp|paprika",
+   "1/2 tsp|cinnamon-ground",
+   "150 g|freekeh|rinsed",
+   "100 g|chickpeas-cooked|drained",
+   "1.5 l|water",
+   "1 bunch|coriander|chopped",
+   "1 tsp|salt",
+   "1|lemon|cut in wedges"
+  ],
+  "steps": [
+   "Brown the lamb|8|Heat the oil in a heavy pot over medium-high heat. Brown the lamb in two batches, 3 to 4 minutes per batch, until coloured on all sides, then return all the meat to the pot.",
+   "Add aromatics|6|Add the onion and cook 4 to 5 minutes until soft. Stir in the tomato paste, pepper, paprika and cinnamon and cook 1 minute until the paste darkens slightly.",
+   "Simmer the meat|40|Pour in the water and add the salt. Bring to a boil, skim off any foam, then cover and simmer gently 40 minutes, until the lamb is nearly tender.",
+   "Add the grain|25|Stir in the freekeh and chickpeas. Simmer uncovered 20 to 25 minutes, stirring occasionally, until the freekeh is chewy-tender and the soup has thickened. Add a little hot water if it becomes too thick.",
+   "Finish|3|Stir in half the coriander, taste and adjust the salt. Serve hot, topped with the remaining coriander and a lemon wedge."
+  ],
+  "tips": [
+   "Freekeh swells and thickens the soup as it stands; keep extra hot water ready.",
+   "Squeeze lemon in at the table so the flavour stays bright."
+  ],
+  "mistakes": [
+   "Skipping the rinse leaves the freekeh gritty.",
+   "Boiling hard instead of simmering toughens the lamb."
+  ],
+  "storage": "Refrigerate up to 3 days; the soup thickens, so loosen with water.",
+  "reheat": "Reheat on the hob until steaming hot throughout, adding water as needed.",
+  "subs": [
+   "lamb-shoulder>beef-stew-meat|longer cooking",
+   "freekeh>bulgur|shorter cooking, softer"
+  ],
+  "tags": [
+   "soup",
+   "ramadan",
+   "freekeh",
+   "lamb"
+  ],
+  "occasion": [
+   "Ramadan iftar",
+   "winter dinner"
+  ],
+  "refs": [],
+  "related": [
+   "vegetable-couscous",
+   "harira"
+  ]
+ },
+ {
+  "id": "chakchouka",
+  "name": "Chakchouka",
+  "local": "شكشوكة",
+  "alt": [
+   "Shakshuka"
+  ],
+  "tr": {
+   "fr": "Chakchouka",
+   "ar": "شكشوكة"
+  },
+  "desc": "Eggs poached in a spiced sauce of stewed tomatoes and peppers, served straight from the pan with bread for scooping.",
+  "origin_note": "The dish is widely associated with the Maghreb, where it is a common home meal in Algeria, Tunisia and Libya, and spread across the Middle East. Its exact origin is not settled, so it is listed with several countries rather than one.",
+  "confidence": "disputed",
+  "countries": [
+   "DZ",
+   "TN",
+   "LY"
+  ],
+  "primary": "TN",
+  "cuisine": "Maghrebi",
+  "meal": [
+   "breakfast",
+   "lunch",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 25,
+  "rest": 0,
+  "serves": 3,
+  "diff": "Easy",
+  "ing": [
+   "3 tbsp|olive-oil",
+   "1|onion|sliced",
+   "2|bell-pepper|green or red, sliced",
+   "3|garlic|crushed",
+   "1 tsp|cumin-ground",
+   "1 tsp|paprika",
+   "1/2 tsp|chili-flakes|or to taste",
+   "800 g|tomato-canned|crushed",
+   "1 tsp|salt",
+   "6|egg",
+   "?1 handful|parsley|chopped"
+  ],
+  "steps": [
+   "Soften the vegetables|10|Heat the oil in a wide, lidded frying pan over medium heat. Cook the onion and peppers 8 to 10 minutes until very soft, stirring occasionally.",
+   "Spice|2|Add the garlic, cumin, paprika and chilli and stir for 1 minute until fragrant.",
+   "Reduce the sauce|12|Add the tomatoes and salt. Simmer over medium-low heat 10 to 12 minutes, stirring now and then, until the sauce is thick and no longer watery.",
+   "Poach the eggs|6|Make six small wells in the sauce and crack an egg into each. Cover and cook over low heat 5 to 7 minutes, until the whites are fully set; cook longer for firm yolks.",
+   "Serve|1|Scatter with parsley and serve at once in the pan with plenty of bread."
+  ],
+  "tips": [
+   "A thick sauce keeps the eggs from sinking and the yolk from spreading.",
+   "For safety, cook until the whites are completely set."
+  ],
+  "mistakes": [
+   "Adding eggs to a thin sauce makes them dissolve into it."
+  ],
+  "storage": "Eat fresh. The sauce alone keeps 3 days in the fridge.",
+  "reheat": "Reheat the sauce and poach fresh eggs in it.",
+  "subs": [
+   "bell-pepper>chili-fresh|for heat"
+  ],
+  "tags": [
+   "eggs",
+   "breakfast",
+   "tomato",
+   "one-pan"
+  ],
+  "occasion": [
+   "brunch",
+   "quick dinner"
+  ],
+  "refs": [],
+  "related": [
+   "ful-medames"
+  ]
+ },
+ {
+  "id": "chicken-tagine-preserved-lemon",
+  "name": "Chicken tagine with preserved lemon and olives",
+  "local": "طاجين الدجاج بالليمون المصبر والزيتون",
+  "tr": {
+   "fr": "Tajine de poulet aux citrons confits et olives",
+   "ar": "طاجين الدجاج بالليمون المصبر والزيتون"
+  },
+  "desc": "Tender chicken braised slowly with onion, ginger, saffron and turmeric, finished with salty preserved lemon and green olives. Best with bread to catch the sauce.",
+  "origin_note": "A classic of Moroccan cuisine, named after the conical clay pot (tagine) in which it is traditionally cooked. A heavy lidded pot works well.",
+  "confidence": "high",
+  "countries": [
+   "MA"
+  ],
+  "primary": "MA",
+  "cuisine": "Moroccan",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 60,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "8|chicken-thigh|bone-in, skin removed",
+   "3 tbsp|olive-oil",
+   "2|onion|grated",
+   "3|garlic|crushed",
+   "1 tsp|ginger-ground",
+   "1 tsp|turmeric",
+   "1 tsp|black-pepper",
+   "1 pinch|saffron|soaked in 2 tbsp warm water",
+   "250 ml|water",
+   "1|preserved-lemon|rind only, rinsed and sliced",
+   "100 g|green-olives|pitted",
+   "1 handful|coriander|chopped",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Marinate|10|Mix the garlic, ginger, turmeric, pepper, salt and 1 tbsp oil and rub over the chicken. Rest 10 minutes (or up to a few hours, covered, in the fridge).",
+   "Start the base|8|Heat the remaining oil in a heavy pot over medium heat. Add the grated onion and cook 6 to 8 minutes, stirring, until it softens into a jammy base.",
+   "Braise|40|Add the chicken, saffron with its soaking water and the 250 ml water. Cover and cook gently 35 to 40 minutes, turning once, until the chicken is very tender and cooked through (juices run clear; 75 °C inside).",
+   "Finish|10|Add the preserved lemon rind and olives and simmer uncovered 8 to 10 minutes until the sauce is thick and glossy. Scatter with coriander and serve."
+  ],
+  "tips": [
+   "Rinse preserved lemon to control saltiness; use only the rind.",
+   "Keep the heat low: the chicken braises in its own juices."
+  ],
+  "mistakes": [
+   "Salting heavily before tasting; preserved lemon and olives are already salty."
+  ],
+  "storage": "Refrigerate up to 3 days.",
+  "reheat": "Reheat gently on the hob until piping hot (at least 75 °C).",
+  "subs": [
+   "preserved-lemon>lemon|use juice of 1 lemon plus 1 tsp zest; flavour is fresher, less fermented"
+  ],
+  "tags": [
+   "tagine",
+   "chicken",
+   "preserved-lemon"
+  ],
+  "occasion": [
+   "family dinner",
+   "guests"
+  ],
+  "refs": [],
+  "related": [
+   "vegetable-couscous"
+  ]
+ },
+ {
+  "id": "harira",
+  "name": "Harira",
+  "local": "حريرة",
+  "tr": {
+   "fr": "Harira",
+   "ar": "حريرة"
+  },
+  "desc": "A hearty Moroccan soup of tomatoes, lentils, chickpeas and herbs, thickened with a flour and water slurry and brightened with lemon.",
+  "origin_note": "Harira is a Moroccan soup traditionally served to break the fast in Ramadan; versions with variations exist elsewhere in the Maghreb.",
+  "confidence": "high",
+  "countries": [
+   "MA"
+  ],
+  "primary": "MA",
+  "cuisine": "Moroccan",
+  "meal": [
+   "soup",
+   "dinner"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 60,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "2 tbsp|olive-oil",
+   "1|onion|finely chopped",
+   "2|celery|stalks, finely chopped",
+   "400 g|tomato-canned|crushed",
+   "1 tsp|turmeric",
+   "1 tsp|ginger-ground",
+   "1 tsp|black-pepper",
+   "1/2 tsp|cinnamon-ground",
+   "100 g|lentils-brown|rinsed",
+   "150 g|chickpeas-cooked|drained",
+   "1.5 l|water",
+   "3 tbsp|flour-wheat",
+   "1 bunch|coriander|chopped",
+   "1 bunch|parsley|chopped",
+   "1 tsp|salt",
+   "1|lemon|cut in wedges"
+  ],
+  "steps": [
+   "Soften the base|8|Heat the oil in a large pot over medium heat and cook the onion and celery 7 to 8 minutes until soft.",
+   "Add tomatoes and spices|5|Stir in the tomatoes, turmeric, ginger, pepper and cinnamon and simmer 5 minutes.",
+   "Cook the pulses|35|Add the lentils, chickpeas, salt and 1.2 l of the water. Bring to a boil, then simmer 30 to 35 minutes until the lentils are soft.",
+   "Thicken|8|Whisk the flour with the remaining 300 ml cold water until smooth. Pour into the soup in a thin stream, stirring constantly, and simmer 6 to 8 minutes until it thickens to a velvety consistency.",
+   "Finish|2|Stir in the coriander and parsley, taste for salt and serve hot with lemon wedges."
+  ],
+  "tips": [
+   "Pour the slurry slowly while stirring to avoid lumps.",
+   "Add the lemon at the table."
+  ],
+  "mistakes": [
+   "Adding flour directly to hot soup creates lumps."
+  ],
+  "storage": "Refrigerate up to 4 days or freeze up to 2 months.",
+  "reheat": "Reheat until steaming, thinning with water if needed.",
+  "subs": [
+   "flour-wheat>cornstarch|gluten-free; use 2 tbsp"
+  ],
+  "tags": [
+   "soup",
+   "lentils",
+   "ramadan"
+  ],
+  "occasion": [
+   "Ramadan iftar"
+  ],
+  "refs": [],
+  "related": [
+   "chorba-frik"
+  ]
+ },
+ {
+  "id": "brik-a-l-oeuf",
+  "name": "Brik à l’œuf",
+  "local": "بريك بالبيض",
+  "tr": {
+   "fr": "Brik à l’œuf",
+   "ar": "بريك بالبيض"
+  },
+  "desc": "A crisp, golden pastry parcel filled with tuna, parsley, capers and a whole egg that stays soft inside. A Tunisian street-food and Ramadan favourite.",
+  "origin_note": "Brik is a staple of Tunisian cuisine. Similar stuffed pastries exist across the Maghreb and the Ottoman-influenced world, and the dish is eaten widely in Algeria too; Tunisia is the usual reference for this egg version.",
+  "confidence": "medium",
+  "countries": [
+   "TN"
+  ],
+  "primary": "TN",
+  "cuisine": "Tunisian",
+  "meal": [
+   "starter",
+   "snack",
+   "dinner"
+  ],
+  "tradition": "traditional",
+  "prep": 15,
+  "cook": 10,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Hard",
+  "ing": [
+   "4|filo-sheet|large, or malsouka leaves",
+   "4|egg|very fresh",
+   "120 g|tuna-canned|drained",
+   "2 tbsp|parsley|finely chopped",
+   "1 tbsp|capers|drained",
+   "1|onion-spring|chopped",
+   "1/4 tsp|black-pepper",
+   "500 ml|sunflower-oil|for frying",
+   "1|lemon|cut in wedges"
+  ],
+  "steps": [
+   "Mix the filling|3|Flake the tuna and mix with the parsley, capers, spring onion and pepper.",
+   "Fill|4|Lay one sheet flat. Spoon a quarter of the tuna mix in the centre, leaving a small hollow, and carefully crack an egg into it. Fold over the sheet to form a triangle or half-moon and press the edges to seal.",
+   "Heat the oil|4|Heat the oil in a deep frying pan to about 170 °C (a small piece of pastry should sizzle and rise quickly).",
+   "Fry|3|Slide each brik in carefully and fry about 1 minute per side, spooning hot oil over the top, until golden and crisp. The white should set while the yolk stays runny. Drain on paper towel.",
+   "Serve|1|Serve immediately with lemon. Take care with the hot oil and the runny egg."
+  ],
+  "tips": [
+   "Work quickly: the pastry dries and cracks if left uncovered.",
+   "Use very fresh eggs; for anyone vulnerable, fry longer until the yolk is set."
+  ],
+  "mistakes": [
+   "Oil that is too cool makes the pastry greasy."
+  ],
+  "storage": "Best eaten immediately.",
+  "reheat": "Not recommended; reheating makes the pastry soggy.",
+  "subs": [
+   "tuna-canned>potato-boiled|vegetarian filling, mashed"
+  ],
+  "tags": [
+   "fried",
+   "street-food",
+   "tuna",
+   "egg"
+  ],
+  "occasion": [
+   "Ramadan",
+   "party starter"
+  ],
+  "refs": [],
+  "related": [
+   "chakchouka"
+  ]
+ },
+ {
+  "id": "koshari",
+  "name": "Koshari",
+  "local": "كشري",
+  "tr": {
+   "fr": "Koshari",
+   "ar": "كشري"
+  },
+  "desc": "Egypt’s beloved street meal: rice, lentils and macaroni topped with a spicy tomato sauce, chickpeas and crisp fried onions.",
+  "origin_note": "Koshari is considered a national dish of Egypt and became widespread in the 19th–20th centuries; its parts reflect mixed culinary influences, so it is a modern Egyptian classic rather than an ancient one.",
+  "confidence": "high",
+  "countries": [
+   "EG"
+  ],
+  "primary": "EG",
+  "cuisine": "Egyptian",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main",
+   "street-food"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 50,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "200 g|lentils-brown|rinsed",
+   "200 g|rice-white",
+   "150 g|macaroni",
+   "400 g|tomato-canned|crushed",
+   "4|garlic|crushed",
+   "2 tbsp|vinegar-white",
+   "1 tsp|cumin-ground",
+   "1/2 tsp|chili-flakes",
+   "4|onion|thinly sliced",
+   "300 ml|sunflower-oil|for frying",
+   "200 g|chickpeas-cooked|drained",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Fry the onions|20|Heat the oil in a wide pan over medium heat. Fry the onions in batches, 8 to 10 minutes each, stirring, until deep golden and crisp. Drain on paper and keep the flavoured oil.",
+   "Cook the lentils|20|Cover the lentils with water and simmer about 20 minutes until just tender; drain, reserving the cooking water.",
+   "Cook the rice|18|Rinse the rice, then simmer with 2 tbsp of the onion oil and 400 ml of the lentil water, covered, 15 to 18 minutes until the water is absorbed. Fluff and mix in the lentils.",
+   "Cook the macaroni|8|Boil the macaroni in salted water until al dente; drain.",
+   "Make the sauce|15|Fry the garlic in 2 tbsp onion oil for 30 seconds, add cumin and chilli, then the tomatoes and salt. Simmer 12 to 15 minutes until thick, then stir in the vinegar.",
+   "Assemble|3|Layer rice and lentils, macaroni and chickpeas in bowls; top with sauce and the crisp onions. Serve with extra vinegar and chilli on the side."
+  ],
+  "tips": [
+   "Fry onions steadily; stirring too little leads to uneven browning."
+  ],
+  "mistakes": [
+   "Salting the lentils early can toughen them."
+  ],
+  "storage": "Store components separately in the fridge up to 3 days.",
+  "reheat": "Reheat gently; add the crisp onions fresh.",
+  "subs": [
+   "macaroni>spaghetti|broken into short pieces"
+  ],
+  "tags": [
+   "vegan",
+   "street-food",
+   "lentils",
+   "rice"
+  ],
+  "occasion": [
+   "everyday lunch"
+  ],
+  "refs": [],
+  "related": [
+   "ful-medames"
+  ]
+ },
+ {
+  "id": "ful-medames",
+  "name": "Ful medames",
+  "local": "فول مدمس",
+  "tr": {
+   "fr": "Foul medames",
+   "ar": "فول مدمس"
+  },
+  "desc": "Slow-cooked fava beans mashed lightly with olive oil, lemon, garlic and cumin, a daily breakfast across Egypt and beyond.",
+  "origin_note": "Ful medames is a national staple of Egypt and is also eaten in Sudan and across the Levant and Horn of Africa; the preparation varies by place.",
+  "confidence": "high",
+  "countries": [
+   "EG"
+  ],
+  "primary": "EG",
+  "cuisine": "Egyptian",
+  "meal": [
+   "breakfast",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 15,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "800 g|fava-beans-cooked|canned, drained and rinsed",
+   "4 tbsp|olive-oil",
+   "3|garlic|crushed",
+   "1 tsp|cumin-ground",
+   "2|lemon|juiced",
+   "1 tsp|salt",
+   "1|tomato|diced",
+   "2 tbsp|parsley|chopped",
+   "?1|chili-fresh|chopped"
+  ],
+  "steps": [
+   "Warm the beans|8|Heat the beans with 150 ml water in a pan over medium heat 6 to 8 minutes until hot and tender.",
+   "Mash|3|Add the garlic, cumin and salt and mash about half the beans with a fork so the dish is part creamy, part whole.",
+   "Dress|2|Take off the heat and stir in the lemon juice and 2 tbsp of the oil.",
+   "Serve|1|Spoon into bowls, top with tomato, parsley, chilli if using and the remaining oil. Serve with warm bread."
+  ],
+  "tips": [
+   "Mash only part of the beans for texture.",
+   "Dried beans soaked overnight and simmered 1.5–2 hours give deeper flavour."
+  ],
+  "mistakes": [
+   "Adding lemon while the beans boil dulls its freshness."
+  ],
+  "storage": "Refrigerate up to 4 days.",
+  "reheat": "Reheat with a splash of water.",
+  "subs": [
+   "fava-beans-cooked>chickpeas-cooked|different flavour"
+  ],
+  "tags": [
+   "vegan",
+   "breakfast",
+   "beans"
+  ],
+  "occasion": [
+   "breakfast",
+   "brunch"
+  ],
+  "refs": [],
+  "related": [
+   "koshari",
+   "chakchouka"
+  ]
+ },
+ {
+  "id": "jollof-rice",
+  "name": "Jollof rice",
+  "tr": {
+   "fr": "Riz jollof",
+   "ar": "أرز جولوف"
+  },
+  "desc": "Rice cooked in a rich, smoky sauce of tomatoes, peppers and onion until each grain is orange-red and tender. A centrepiece at celebrations across West Africa.",
+  "origin_note": "Jollof is a pan-West-African dish often traced to the Senegambia region and the Wolof people (ceebu jën); Nigeria and Ghana each strongly claim their own versions, and the friendly rivalry is well known. No single country owns it.",
+  "confidence": "disputed",
+  "countries": [
+   "NG",
+   "GH",
+   "SN"
+  ],
+  "primary": "NG",
+  "cuisine": "West African",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 50,
+  "rest": 10,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "400 g|rice-long-grain|parboiled, rinsed",
+   "400 g|tomato-canned|crushed",
+   "2|bell-pepper|red, deseeded",
+   "1|scotch-bonnet|deseeded for less heat",
+   "2|onion|1 chopped, 1 sliced",
+   "3 tbsp|tomato-paste",
+   "4 tbsp|sunflower-oil",
+   "1 tsp|thyme-dried",
+   "1 tsp|curry-powder",
+   "2|bay-leaf",
+   "600 ml|chicken-stock",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Blend the base|3|Blend the tomatoes, red peppers, scotch bonnet and the chopped onion until smooth.",
+   "Fry the sauce|20|Heat the oil in a heavy pot over medium heat; fry the sliced onion 5 minutes, add the tomato paste and fry 3 minutes. Pour in the blended base and cook 12 to 15 minutes, stirring, until reduced and the oil rises to the surface.",
+   "Season|2|Stir in the thyme, curry powder, bay leaves and salt, then the stock, and bring to a boil.",
+   "Cook the rice|25|Add the rinsed rice, stir once, cover tightly (foil under the lid helps) and cook on the lowest heat 25 minutes, without stirring, until the liquid is absorbed and the rice is tender.",
+   "Rest and fluff|10|Switch off the heat, leave covered 10 minutes, then fluff with a fork. A little crust at the bottom is welcome."
+  ],
+  "tips": [
+   "Cook the sauce until the raw tomato smell is gone; this is where the flavour comes from.",
+   "Do not lift the lid while the rice steams."
+  ],
+  "mistakes": [
+   "Too much liquid gives soft, mushy rice."
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour; use within 2 days.",
+  "reheat": "Reheat until steaming hot throughout; do not reheat more than once.",
+  "subs": [
+   "chicken-stock>vegetable-stock|vegetarian",
+   "scotch-bonnet>chili-fresh|milder"
+  ],
+  "tags": [
+   "rice",
+   "party",
+   "one-pot"
+  ],
+  "occasion": [
+   "celebrations",
+   "parties"
+  ],
+  "refs": [],
+  "related": [
+   "egusi-soup"
+  ]
+ },
+ {
+  "id": "egusi-soup",
+  "name": "Egusi soup",
+  "tr": {
+   "fr": "Soupe egusi",
+   "ar": "حساء إيغوسي"
+  },
+  "desc": "A thick, nutty Nigerian soup made from ground melon seeds, leafy greens, palm oil and meat or fish, traditionally eaten with pounded yam or other swallows.",
+  "origin_note": "Egusi soup is closely associated with Nigeria (notably Yoruba and Igbo cooking); melon-seed soups are also cooked in other West and Central African countries.",
+  "confidence": "high",
+  "countries": [
+   "NG"
+  ],
+  "primary": "NG",
+  "cuisine": "Nigerian",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 50,
+  "rest": 0,
+  "serves": 5,
+  "diff": "Medium",
+  "ing": [
+   "300 g|beef-stew-meat|cut in cubes",
+   "200 g|egusi-ground|ground melon seeds",
+   "100 ml|palm-oil",
+   "1|onion|chopped",
+   "2|bell-pepper|red, blended",
+   "1|scotch-bonnet|blended",
+   "300 g|spinach|chopped",
+   "1 tbsp|crayfish-ground|optional, ground dried crayfish",
+   "500 ml|beef-stock",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Cook the beef|30|Simmer the beef with half the onion, salt and the stock for about 30 minutes until nearly tender. Reserve the stock.",
+   "Fry the base|10|Heat the palm oil in a pot over medium heat, fry the remaining onion 3 minutes, add the blended pepper mixture and cook 8 to 10 minutes until the oil separates.",
+   "Add egusi|10|Mix the ground egusi with a little water into a thick paste. Drop spoonfuls into the pot, cover and cook 8 to 10 minutes without stirring so curds form.",
+   "Combine|10|Add the beef and about 300 ml of its stock plus the crayfish. Simmer 10 minutes, stirring gently, until thick.",
+   "Add greens|5|Fold in the spinach and cook 3 to 5 minutes until just wilted. Season and serve hot with rice, pounded yam or fufu."
+  ],
+  "tips": [
+   "Do not stir right after adding the egusi, or it will not clump.",
+   "Adjust the stock for a thicker or thinner soup."
+  ],
+  "mistakes": [
+   "Overcooking the greens dulls colour and flavour."
+  ],
+  "storage": "Refrigerate up to 3 days.",
+  "reheat": "Reheat until steaming hot.",
+  "subs": [
+   "beef-stew-meat>mushroom|vegetarian, shorter cooking",
+   "spinach>kale|longer cooking time"
+  ],
+  "tags": [
+   "soup",
+   "melon-seed",
+   "nigerian"
+  ],
+  "occasion": [
+   "family dinner"
+  ],
+  "refs": [],
+  "related": [
+   "jollof-rice"
+  ]
+ },
+ {
+  "id": "doro-wat",
+  "name": "Doro wat",
+  "local": "ዶሮ ወጥ",
+  "tr": {
+   "fr": "Doro wat",
+   "ar": "دورو وات"
+  },
+  "desc": "Ethiopia’s celebrated chicken stew: onions cooked down slowly with berbere spice and niter kibbeh, then simmered with chicken and boiled eggs.",
+  "origin_note": "Doro wat is a national dish of Ethiopia, traditionally served at holidays and gatherings with injera. It is shared with Eritrea in similar form.",
+  "confidence": "high",
+  "countries": [
+   "ET"
+  ],
+  "primary": "ET",
+  "cuisine": "Ethiopian",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 90,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Hard",
+  "ing": [
+   "1.2 kg|chicken-pieces|skinned, drumsticks and thighs",
+   "2|lemon|juiced",
+   "1 kg|onion|very finely chopped",
+   "60 g|niter-kibbeh|or butter",
+   "4 tbsp|berbere",
+   "4|garlic|crushed",
+   "1 tbsp|ginger-fresh|grated",
+   "250 ml|water",
+   "6|egg|hard-boiled, peeled",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Marinate the chicken|15|Toss the chicken with the lemon juice and a pinch of salt and leave 15 minutes.",
+   "Dry-cook the onions|25|Put the onions in a heavy pot over medium heat without oil. Cook 20 to 25 minutes, stirring often, until they have released their water and reduced to a soft pulp; do not brown.",
+   "Add fat and spice|15|Add the niter kibbeh and cook 5 minutes, then stir in the berbere, garlic and ginger and cook 10 minutes, stirring, until the sauce is deep red and the oil separates.",
+   "Simmer the chicken|45|Add the chicken and water, cover and cook gently 40 to 45 minutes until the chicken is very tender and cooked through (75 °C inside).",
+   "Add the eggs|10|Prick the boiled eggs with a fork and add them to the sauce; simmer 8 to 10 minutes. Taste for salt and serve with injera or rice."
+  ],
+  "tips": [
+   "The patience in the onions makes the stew; low heat prevents scorching.",
+   "Prick the eggs so the sauce flavours them."
+  ],
+  "mistakes": [
+   "Browning the onions changes the traditional flavour."
+  ],
+  "storage": "Refrigerate up to 3 days; flavour improves overnight.",
+  "reheat": "Reheat gently until piping hot.",
+  "subs": [
+   "niter-kibbeh>butter|simpler, less aromatic"
+  ],
+  "tags": [
+   "stew",
+   "spicy",
+   "holiday"
+  ],
+  "occasion": [
+   "holidays",
+   "gatherings"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "ugali-sukuma-wiki",
+  "name": "Ugali with sukuma wiki",
+  "tr": {
+   "fr": "Ugali et sukuma wiki",
+   "ar": "أوغالي مع سوكوما ويكي"
+  },
+  "desc": "A firm maize-meal porridge (ugali) served with quick-braised collard greens (sukuma wiki) with tomato and onion, an everyday meal in Kenya.",
+  "origin_note": "Ugali is a staple across East and Southern Africa under different names; sukuma wiki is closely tied to Kenyan home cooking.",
+  "confidence": "high",
+  "countries": [
+   "KE"
+  ],
+  "primary": "KE",
+  "cuisine": "Kenyan",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 25,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "300 g|maize-meal|white",
+   "750 ml|water",
+   "3 tbsp|sunflower-oil",
+   "1|onion|sliced",
+   "3|tomato|chopped",
+   "500 g|collard-greens|stems removed, finely sliced",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Cook the greens base|8|Heat the oil in a large pan over medium heat and cook the onion 5 minutes. Add the tomatoes and cook 5 minutes until soft and saucy.",
+   "Add greens|10|Add the collard greens and salt, stir, cover and cook 8 to 10 minutes until tender but still bright green.",
+   "Boil the water|3|In a separate pot, bring the water to a boil.",
+   "Make ugali|12|Add half the maize meal in a steady stream, stirring with a wooden spoon, then gradually add the rest. Cook, pressing and turning against the pot, 8 to 10 minutes until the mixture pulls away from the sides as a stiff dough.",
+   "Serve|2|Shape the ugali into a mound or wet-spoon portions and serve with the greens."
+  ],
+  "tips": [
+   "Add the maize meal gradually to avoid lumps.",
+   "Use a strong wooden spoon; it gets stiff."
+  ],
+  "mistakes": [
+   "Adding all the meal at once forms lumps."
+  ],
+  "storage": "Best fresh; greens keep 2 days.",
+  "reheat": "Reheat greens on the hob.",
+  "subs": [
+   "collard-greens>kale|slightly more bitter"
+  ],
+  "tags": [
+   "vegan",
+   "staple",
+   "greens"
+  ],
+  "occasion": [
+   "everyday"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "bobotie",
+  "name": "Bobotie",
+  "tr": {
+   "fr": "Bobotie",
+   "ar": "بوبوتي"
+  },
+  "desc": "A South African baked dish of lightly curried spiced minced meat with dried fruit, topped with a savoury egg custard and bay leaves.",
+  "origin_note": "Bobotie is regarded as a national dish of South Africa, with roots in the Cape Malay community and Dutch colonial cooking; similar dishes are linked to Indonesian influences.",
+  "confidence": "medium",
+  "countries": [
+   "ZA"
+  ],
+  "primary": "ZA",
+  "cuisine": "South African (Cape Malay)",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 55,
+  "rest": 5,
+  "serves": 6,
+  "diff": "Easy",
+  "ing": [
+   "2 tbsp|sunflower-oil",
+   "2|onion|finely chopped",
+   "2|garlic|crushed",
+   "750 g|beef-mince",
+   "2 tbsp|curry-powder",
+   "1 tsp|turmeric",
+   "1 tbsp|apricot-jam",
+   "50 g|raisins",
+   "2 tbsp|vinegar-white",
+   "1|bread-slice|soaked in 100 ml milk",
+   "250 ml|milk|for custard topping",
+   "2|egg",
+   "4|bay-leaf",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Preheat|2|Heat the oven to 180 °C (160 °C fan) and lightly grease a 24 cm baking dish.",
+   "Cook the onions|6|Heat the oil in a large pan over medium heat and cook the onions 6 minutes until soft; add the garlic for 1 minute.",
+   "Brown the meat|10|Add the mince, breaking it up, and cook 8 to 10 minutes until browned and no pink remains. Stir in the curry powder, turmeric and salt for 1 minute.",
+   "Add sweetness and tang|3|Squeeze the soaked bread and mash into the mince with the jam, raisins and vinegar; mix well and press into the baking dish.",
+   "Add the custard|35|Whisk the eggs with the 250 ml milk and pour over the meat; place bay leaves on top. Bake 30 to 35 minutes until the custard is just set and lightly golden.",
+   "Rest|5|Rest 5 minutes before serving with yellow rice."
+  ],
+  "tips": [
+   "Mince should be cooked through (no pink) before baking.",
+   "Chutney is a classic accompaniment."
+  ],
+  "mistakes": [
+   "Baking too hot makes the custard curdle."
+  ],
+  "storage": "Refrigerate up to 3 days.",
+  "reheat": "Reheat covered in the oven until hot throughout.",
+  "subs": [
+   "beef-mince>lamb-mince|richer"
+  ],
+  "tags": [
+   "baked",
+   "curried",
+   "family"
+  ],
+  "occasion": [
+   "Sunday lunch"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "hummus",
+  "name": "Hummus",
+  "local": "حمّص بالطحينة",
+  "tr": {
+   "fr": "Houmous",
+   "ar": "حمّص بالطحينة"
+  },
+  "desc": "Velvety chickpea purée blended with tahini, lemon, garlic and olive oil, served as a dip or breakfast with warm bread.",
+  "origin_note": "Hummus is a shared Levantine staple; there is no agreed single origin, and several countries and communities claim it. It is listed here with the countries where it is a long-standing national staple.",
+  "confidence": "disputed",
+  "countries": [
+   "LB",
+   "SY",
+   "PS",
+   "JO"
+  ],
+  "primary": "LB",
+  "cuisine": "Levantine",
+  "meal": [
+   "starter",
+   "snack",
+   "breakfast"
+  ],
+  "tradition": "traditional",
+  "prep": 15,
+  "cook": 0,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Easy",
+  "ing": [
+   "400 g|chickpeas-cooked|drained, liquid reserved",
+   "90 g|tahini",
+   "2|lemon|juiced",
+   "2|garlic|crushed",
+   "60 ml|water",
+   "1/2 tsp|cumin-ground",
+   "3 tbsp|olive-oil",
+   "1 tsp|salt",
+   "1/2 tsp|paprika"
+  ],
+  "steps": [
+   "Whip tahini|3|In a food processor, blend the tahini, lemon juice and garlic for 1 minute until thick and pale.",
+   "Add chickpeas|3|Add the chickpeas, cumin and salt and blend 2 minutes, scraping down the sides.",
+   "Loosen|2|With the machine running, add the ice water a spoonful at a time until the hummus is smooth and creamy.",
+   "Serve|2|Spread in a shallow bowl, make a swirl, drizzle with olive oil and dust with paprika."
+  ],
+  "tips": [
+   "Peeling the chickpeas gives extra smoothness.",
+   "Ice water makes it lighter."
+  ],
+  "mistakes": [
+   "Adding all the liquid at once; add gradually."
+  ],
+  "storage": "Refrigerate up to 5 days.",
+  "reheat": "Serve cool or at room temperature.",
+  "subs": [
+   "tahini>sunflower-seed-butter|different flavour"
+  ],
+  "tags": [
+   "vegan",
+   "dip",
+   "meze"
+  ],
+  "occasion": [
+   "meze",
+   "snack"
+  ],
+  "refs": [],
+  "related": [
+   "falafel"
+  ]
+ },
+ {
+  "id": "falafel",
+  "name": "Falafel",
+  "local": "فلافل",
+  "tr": {
+   "fr": "Falafel",
+   "ar": "فلافل"
+  },
+  "desc": "Crisp-shelled, green-centred fritters of ground soaked chickpeas and fresh herbs, served in bread with tahini sauce and pickles.",
+  "origin_note": "Falafel is a staple of the Levant and Egypt (where it is made from fava beans and called ta’amiya); its origin is debated. This chickpea version is the one common in the Levant.",
+  "confidence": "disputed",
+  "countries": [
+   "LB",
+   "SY",
+   "PS",
+   "EG"
+  ],
+  "primary": "LB",
+  "cuisine": "Levantine",
+  "meal": [
+   "lunch",
+   "snack",
+   "street-food"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 15,
+  "rest": 720,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "250 g|chickpeas-dried|soaked 12 hours, drained (not cooked)",
+   "1|onion|chopped",
+   "4|garlic|peeled",
+   "1 bunch|parsley|leaves",
+   "1 bunch|coriander|leaves",
+   "2 tsp|cumin-ground",
+   "1 tsp|coriander-ground",
+   "1 tsp|salt",
+   "1 tsp|baking-powder",
+   "500 ml|sunflower-oil|for frying"
+  ],
+  "steps": [
+   "Soak|0|Cover the chickpeas with plenty of water and soak 12 hours; drain well. Do not cook them.",
+   "Grind|5|Pulse the chickpeas, onion, garlic and herbs in a food processor until a coarse, damp crumb forms that holds when squeezed; it should not be a paste.",
+   "Season and rest|20|Mix in the cumin, ground coriander, salt and baking powder and chill 20 minutes.",
+   "Shape|5|Form walnut-sized balls or small patties with wet hands.",
+   "Fry|10|Heat oil to about 180 °C and fry in batches 3 to 4 minutes, turning, until deep golden. Drain on paper.",
+   "Serve|2|Serve hot in flatbread with tahini sauce, tomato, cucumber and pickles."
+  ],
+  "tips": [
+   "Raw soaked chickpeas, not canned, give a crisp, non-pasty texture.",
+   "If patties fall apart, add 1 tbsp flour."
+  ],
+  "mistakes": [
+   "Oil too cool makes falafel soak up grease."
+  ],
+  "storage": "Best fresh; leftovers keep 2 days.",
+  "reheat": "Crisp up in a hot oven for 8 minutes.",
+  "subs": [
+   "chickpeas-dried>fava-beans-dried|Egyptian ta’amiya style"
+  ],
+  "tags": [
+   "vegan",
+   "fried",
+   "street-food"
+  ],
+  "occasion": [
+   "street food",
+   "picnic"
+  ],
+  "refs": [],
+  "related": [
+   "hummus"
+  ]
+ },
+ {
+  "id": "mansaf",
+  "name": "Mansaf",
+  "local": "منسف",
+  "tr": {
+   "fr": "Mansaf",
+   "ar": "منسف"
+  },
+  "desc": "Jordan’s national dish: tender lamb cooked in a tangy fermented-yoghurt sauce, served on flatbread and rice and topped with toasted almonds and pine nuts.",
+  "origin_note": "Mansaf is regarded as the national dish of Jordan and is also associated with Palestinian and Bedouin tradition; it is served at weddings and major gatherings.",
+  "confidence": "high",
+  "countries": [
+   "JO",
+   "PS"
+  ],
+  "primary": "JO",
+  "cuisine": "Jordanian",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 120,
+  "rest": 0,
+  "serves": 8,
+  "diff": "Hard",
+  "ing": [
+   "1.2 kg|lamb-shoulder|bone-in, in large pieces",
+   "1 kg|yogurt-plain|full-fat, strained",
+   "1 tsp|cornstarch|mixed with 2 tbsp water",
+   "1|onion|halved",
+   "1 tsp|salt",
+   "400 g|rice-white",
+   "40 g|butter",
+   "1 tsp|turmeric",
+   "50 g|almonds|blanched, toasted",
+   "30 g|pine-nuts|toasted",
+   "2|flatbread|torn",
+   "1 tbsp|parsley|chopped"
+  ],
+  "steps": [
+   "Cook the lamb|75|Cover the lamb with water in a large pot with the onion and salt. Bring to a boil, skim, then simmer 70 to 75 minutes until very tender. Reserve 600 ml broth.",
+   "Make the sauce|20|Whisk the yoghurt with the cornstarch slurry in a pan over low heat, stirring constantly in one direction until it just comes to a gentle simmer. Stir in 400 ml hot lamb broth and add the lamb; simmer 15 minutes without boiling hard.",
+   "Cook the rice|18|Rinse the rice and cook with the butter, turmeric, salt and about 700 ml water or broth, covered, 15 to 18 minutes until tender and fluffy.",
+   "Toast nuts|4|Toast the almonds and pine nuts in a dry pan until golden.",
+   "Assemble|3|Layer the flatbread on a platter, top with rice, then the lamb, ladle some yoghurt sauce over and scatter with nuts and parsley. Serve the rest of the sauce on the side."
+  ],
+  "tips": [
+   "Stir yoghurt in one direction and keep it from boiling hard so it does not split.",
+   "Authentic jameed (dried fermented yoghurt) gives the distinctive tang; strained yoghurt is an easier substitute."
+  ],
+  "mistakes": [
+   "Letting the yoghurt boil rapidly makes it curdle."
+  ],
+  "storage": "Refrigerate up to 3 days.",
+  "reheat": "Reheat gently on the hob.",
+  "subs": [
+   "yogurt-plain>jameed|traditional, rehydrated"
+  ],
+  "tags": [
+   "lamb",
+   "festive",
+   "yogurt"
+  ],
+  "occasion": [
+   "weddings",
+   "feasts"
+  ],
+  "refs": [],
+  "related": [
+   "hummus"
+  ]
+ }
+]

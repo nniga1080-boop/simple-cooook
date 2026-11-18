@@ -1,0 +1,338 @@
+{
+ "DZ": {
+  "en": "Algeria",
+  "fr": "Algérie",
+  "ar": "الجزائر",
+  "region": "north-africa"
+ },
+ "MA": {
+  "en": "Morocco",
+  "fr": "Maroc",
+  "ar": "المغرب",
+  "region": "north-africa"
+ },
+ "TN": {
+  "en": "Tunisia",
+  "fr": "Tunisie",
+  "ar": "تونس",
+  "region": "north-africa"
+ },
+ "MR": {
+  "en": "Mauritania",
+  "fr": "Mauritanie",
+  "ar": "موريتانيا",
+  "region": "north-africa"
+ },
+ "LY": {
+  "en": "Libya",
+  "fr": "Libye",
+  "ar": "ليبيا",
+  "region": "north-africa"
+ },
+ "EG": {
+  "en": "Egypt",
+  "fr": "Égypte",
+  "ar": "مصر",
+  "region": "north-africa"
+ },
+ "NG": {
+  "en": "Nigeria",
+  "fr": "Nigéria",
+  "ar": "نيجيريا",
+  "region": "west-africa"
+ },
+ "GH": {
+  "en": "Ghana",
+  "fr": "Ghana",
+  "ar": "غانا",
+  "region": "west-africa"
+ },
+ "SN": {
+  "en": "Senegal",
+  "fr": "Sénégal",
+  "ar": "السنغال",
+  "region": "west-africa"
+ },
+ "ML": {
+  "en": "Mali",
+  "fr": "Mali",
+  "ar": "مالي",
+  "region": "west-africa"
+ },
+ "ET": {
+  "en": "Ethiopia",
+  "fr": "Éthiopie",
+  "ar": "إثيوبيا",
+  "region": "east-africa"
+ },
+ "KE": {
+  "en": "Kenya",
+  "fr": "Kenya",
+  "ar": "كينيا",
+  "region": "east-africa"
+ },
+ "ZA": {
+  "en": "South Africa",
+  "fr": "Afrique du Sud",
+  "ar": "جنوب أفريقيا",
+  "region": "central-southern-africa"
+ },
+ "IT": {
+  "en": "Italy",
+  "fr": "Italie",
+  "ar": "إيطاليا",
+  "region": "southern-europe"
+ },
+ "ES": {
+  "en": "Spain",
+  "fr": "Espagne",
+  "ar": "إسبانيا",
+  "region": "southern-europe"
+ },
+ "GR": {
+  "en": "Greece",
+  "fr": "Grèce",
+  "ar": "اليونان",
+  "region": "southern-europe"
+ },
+ "PT": {
+  "en": "Portugal",
+  "fr": "Portugal",
+  "ar": "البرتغال",
+  "region": "southern-europe"
+ },
+ "FR": {
+  "en": "France",
+  "fr": "France",
+  "ar": "فرنسا",
+  "region": "western-northern-europe"
+ },
+ "DE": {
+  "en": "Germany",
+  "fr": "Allemagne",
+  "ar": "ألمانيا",
+  "region": "western-northern-europe"
+ },
+ "GB": {
+  "en": "United Kingdom",
+  "fr": "Royaume-Uni",
+  "ar": "المملكة المتحدة",
+  "region": "western-northern-europe"
+ },
+ "PL": {
+  "en": "Poland",
+  "fr": "Pologne",
+  "ar": "بولندا",
+  "region": "eastern-europe"
+ },
+ "HU": {
+  "en": "Hungary",
+  "fr": "Hongrie",
+  "ar": "المجر",
+  "region": "eastern-europe"
+ },
+ "UA": {
+  "en": "Ukraine",
+  "fr": "Ukraine",
+  "ar": "أوكرانيا",
+  "region": "eastern-europe"
+ },
+ "TR": {
+  "en": "Türkiye",
+  "fr": "Turquie",
+  "ar": "تركيا",
+  "region": "middle-east"
+ },
+ "LB": {
+  "en": "Lebanon",
+  "fr": "Liban",
+  "ar": "لبنان",
+  "region": "middle-east"
+ },
+ "SY": {
+  "en": "Syria",
+  "fr": "Syrie",
+  "ar": "سوريا",
+  "region": "middle-east"
+ },
+ "JO": {
+  "en": "Jordan",
+  "fr": "Jordanie",
+  "ar": "الأردن",
+  "region": "middle-east"
+ },
+ "PS": {
+  "en": "Palestine",
+  "fr": "Palestine",
+  "ar": "فلسطين",
+  "region": "middle-east"
+ },
+ "IL": {
+  "en": "Israel",
+  "fr": "Israël",
+  "ar": "إسرائيل",
+  "region": "middle-east"
+ },
+ "IR": {
+  "en": "Iran",
+  "fr": "Iran",
+  "ar": "إيران",
+  "region": "middle-east"
+ },
+ "SA": {
+  "en": "Saudi Arabia",
+  "fr": "Arabie saoudite",
+  "ar": "السعودية",
+  "region": "middle-east"
+ },
+ "IQ": {
+  "en": "Iraq",
+  "fr": "Irak",
+  "ar": "العراق",
+  "region": "middle-east"
+ },
+ "IN": {
+  "en": "India",
+  "fr": "Inde",
+  "ar": "الهند",
+  "region": "south-asia"
+ },
+ "PK": {
+  "en": "Pakistan",
+  "fr": "Pakistan",
+  "ar": "باكستان",
+  "region": "south-asia"
+ },
+ "BD": {
+  "en": "Bangladesh",
+  "fr": "Bangladesh",
+  "ar": "بنغلاديش",
+  "region": "south-asia"
+ },
+ "LK": {
+  "en": "Sri Lanka",
+  "fr": "Sri Lanka",
+  "ar": "سريلانكا",
+  "region": "south-asia"
+ },
+ "JP": {
+  "en": "Japan",
+  "fr": "Japon",
+  "ar": "اليابان",
+  "region": "east-asia"
+ },
+ "KR": {
+  "en": "South Korea",
+  "fr": "Corée du Sud",
+  "ar": "كوريا الجنوبية",
+  "region": "east-asia"
+ },
+ "CN": {
+  "en": "China",
+  "fr": "Chine",
+  "ar": "الصين",
+  "region": "east-asia"
+ },
+ "TH": {
+  "en": "Thailand",
+  "fr": "Thaïlande",
+  "ar": "تايلاند",
+  "region": "southeast-asia"
+ },
+ "VN": {
+  "en": "Vietnam",
+  "fr": "Viêt Nam",
+  "ar": "فيتنام",
+  "region": "southeast-asia"
+ },
+ "ID": {
+  "en": "Indonesia",
+  "fr": "Indonésie",
+  "ar": "إندونيسيا",
+  "region": "southeast-asia"
+ },
+ "PH": {
+  "en": "Philippines",
+  "fr": "Philippines",
+  "ar": "الفلبين",
+  "region": "southeast-asia"
+ },
+ "MY": {
+  "en": "Malaysia",
+  "fr": "Malaisie",
+  "ar": "ماليزيا",
+  "region": "southeast-asia"
+ },
+ "MX": {
+  "en": "Mexico",
+  "fr": "Mexique",
+  "ar": "المكسيك",
+  "region": "north-america"
+ },
+ "CA": {
+  "en": "Canada",
+  "fr": "Canada",
+  "ar": "كندا",
+  "region": "north-america"
+ },
+ "US": {
+  "en": "United States",
+  "fr": "États-Unis",
+  "ar": "الولايات المتحدة",
+  "region": "north-america"
+ },
+ "CU": {
+  "en": "Cuba",
+  "fr": "Cuba",
+  "ar": "كوبا",
+  "region": "central-america-caribbean"
+ },
+ "JM": {
+  "en": "Jamaica",
+  "fr": "Jamaïque",
+  "ar": "جامايكا",
+  "region": "central-america-caribbean"
+ },
+ "PE": {
+  "en": "Peru",
+  "fr": "Pérou",
+  "ar": "بيرو",
+  "region": "south-america"
+ },
+ "BR": {
+  "en": "Brazil",
+  "fr": "Brésil",
+  "ar": "البرازيل",
+  "region": "south-america"
+ },
+ "AR": {
+  "en": "Argentina",
+  "fr": "Argentine",
+  "ar": "الأرجنتين",
+  "region": "south-america"
+ },
+ "CO": {
+  "en": "Colombia",
+  "fr": "Colombie",
+  "ar": "كولومبيا",
+  "region": "south-america"
+ },
+ "AU": {
+  "en": "Australia",
+  "fr": "Australie",
+  "ar": "أستراليا",
+  "region": "oceania"
+ },
+ "NZ": {
+  "en": "New Zealand",
+  "fr": "Nouvelle-Zélande",
+  "ar": "نيوزيلندا",
+  "region": "oceania"
+ },
+ "VE": {
+  "en": "Venezuela",
+  "fr": "Venezuela",
+  "ar": "فنزويلا",
+  "region": "south-america"
+ }
+}

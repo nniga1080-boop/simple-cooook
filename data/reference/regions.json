@@ -1,0 +1,17 @@
+{
+  "north-africa": ["North Africa", "Afrique du Nord", "شمال أفريقيا", "africa"],
+  "west-africa": ["West Africa", "Afrique de l'Ouest", "غرب أفريقيا", "africa"],
+  "east-africa": ["East Africa", "Afrique de l'Est", "شرق أفريقيا", "africa"],
+  "central-southern-africa": ["Central and Southern Africa", "Afrique centrale et australe", "وسط وجنوب أفريقيا", "africa"],
+  "southern-europe": ["Southern Europe", "Europe du Sud", "جنوب أوروبا", "europe"],
+  "western-northern-europe": ["Western and Northern Europe", "Europe de l'Ouest et du Nord", "غرب وشمال أوروبا", "europe"],
+  "eastern-europe": ["Eastern Europe", "Europe de l'Est", "شرق أوروبا", "europe"],
+  "middle-east": ["Middle East", "Moyen-Orient", "الشرق الأوسط", "asia"],
+  "south-asia": ["South Asia", "Asie du Sud", "جنوب آسيا", "asia"],
+  "east-asia": ["East Asia", "Asie de l'Est", "شرق آسيا", "asia"],
+  "southeast-asia": ["Southeast Asia", "Asie du Sud-Est", "جنوب شرق آسيا", "asia"],
+  "north-america": ["North America", "Amérique du Nord", "أمريكا الشمالية", "americas"],
+  "central-america-caribbean": ["Central America and Caribbean", "Amérique centrale et Caraïbes", "أمريكا الوسطى والكاريبي", "americas"],
+  "south-america": ["South America", "Amérique du Sud", "أمريكا الجنوبية", "americas"],
+  "oceania": ["Oceania", "Océanie", "أوقيانوسيا", "oceania"]
+}

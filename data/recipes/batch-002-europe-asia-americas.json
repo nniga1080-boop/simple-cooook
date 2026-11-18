@@ -1,0 +1,1648 @@
+[
+ {
+  "id": "spaghetti-carbonara",
+  "name": "Spaghetti alla carbonara",
+  "tr": {
+   "fr": "Spaghetti à la carbonara",
+   "ar": "سباغيتي كاربونارا"
+  },
+  "desc": "Spaghetti coated in a silky sauce of egg yolk, pecorino and black pepper, with crisp cured pork. No cream: the creaminess comes from the egg, cheese and starchy pasta water.",
+  "origin_note": "Carbonara is a Roman dish; its exact origins are debated and it appears in print only in the mid-20th century. The traditional recipe uses guanciale, egg, pecorino romano and pepper.",
+  "confidence": "medium",
+  "countries": [
+   "IT"
+  ],
+  "primary": "IT",
+  "cuisine": "Roman (Italian)",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 15,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "400 g|spaghetti",
+   "150 g|guanciale|cut in strips, or pancetta",
+   "4|egg-yolk",
+   "1|egg|whole",
+   "60 g|pecorino-romano|finely grated",
+   "1 tsp|black-pepper|freshly ground",
+   "1 tbsp|salt|for the pasta water"
+  ],
+  "steps": [
+   "Prepare the sauce|3|Whisk the yolks, whole egg, pecorino and a generous amount of pepper in a bowl into a thick paste.",
+   "Render the pork|8|Cook the guanciale in a cold, dry large pan over medium-low heat 6 to 8 minutes until the fat is translucent and the pieces are crisp and golden. Turn off the heat.",
+   "Cook the pasta|10|Boil the spaghetti in well-salted water until al dente. Scoop out a mug of the pasta water, then drain.",
+   "Combine off the heat|2|Add the pasta to the pan with the guanciale and toss. Let it cool for about 30 seconds so the eggs do not scramble, then add the egg mixture with 3 to 4 tbsp pasta water and toss vigorously until creamy.",
+   "Serve|1|Loosen with a little more pasta water if needed and serve immediately with extra pecorino and pepper."
+  ],
+  "tips": [
+   "Work off the heat: residual heat cooks the egg gently; direct heat scrambles it.",
+   "The starchy water binds the sauce."
+  ],
+  "mistakes": [
+   "Adding cream is not part of the traditional recipe.",
+   "Scrambling the eggs by combining over high heat."
+  ],
+  "storage": "Best eaten at once; sauce does not reheat well.",
+  "reheat": "Not recommended.",
+  "subs": [
+   "guanciale>pancetta|slightly milder",
+   "pecorino-romano>parmesan|milder, nuttier"
+  ],
+  "tags": [
+   "pasta",
+   "roman",
+   "eggs"
+  ],
+  "occasion": [
+   "weeknight dinner"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "paella-valenciana",
+  "name": "Paella valenciana",
+  "tr": {
+   "fr": "Paella valencienne",
+   "ar": "باييلا فالنسيانا"
+  },
+  "desc": "Saffron-scented short-grain rice cooked in a wide pan with chicken, rabbit and green beans until a crisp golden crust (socarrat) forms at the bottom.",
+  "origin_note": "Paella valenciana originates in the Valencia region of Spain; the traditional version uses chicken, rabbit and beans, not seafood. Many other ‘paellas’ exist.",
+  "confidence": "high",
+  "countries": [
+   "ES"
+  ],
+  "primary": "ES",
+  "cuisine": "Valencian (Spanish)",
+  "meal": [
+   "lunch",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 45,
+  "rest": 10,
+  "serves": 6,
+  "diff": "Hard",
+  "ing": [
+   "6|chicken-thigh|bone-in, chopped",
+   "500 g|rabbit|jointed, or more chicken",
+   "5 tbsp|olive-oil",
+   "200 g|green-beans|flat, cut in 4 cm pieces",
+   "3|tomato|grated",
+   "1 tbsp|paprika-smoked",
+   "1 pinch|saffron",
+   "1.2 l|water|hot",
+   "400 g|rice-short-grain|bomba or similar",
+   "200 g|butter-beans|cooked",
+   "1 tsp|salt",
+   "1|lemon|cut in wedges"
+  ],
+  "steps": [
+   "Brown the meat|15|Heat the oil in a wide paella pan over medium-high heat. Season the chicken and rabbit with salt and brown 12 to 15 minutes, turning, until deeply golden.",
+   "Add vegetables|8|Push the meat aside, add the green beans and cook 4 minutes. Add the grated tomato and paprika and cook 4 to 5 minutes until the tomato darkens and thickens.",
+   "Build the broth|20|Add the hot water and saffron and the butter beans. Simmer 20 minutes until the chicken and rabbit are tender and cooked through (75 °C inside) and the liquid has reduced; taste and adjust the salt (it should be a little salty).",
+   "Add the rice|18|Scatter the rice evenly in the pan and do not stir after this point. Cook over medium-high heat 8 minutes, then low heat 10 minutes more until the rice is tender and the liquid absorbed.",
+   "Make the socarrat|2|Increase the heat for the last 1 to 2 minutes, listening for light crackling and a toasty smell, to form the crust. Do not burn it.",
+   "Rest|10|Cover with a cloth and rest 10 minutes. Serve with lemon."
+  ],
+  "tips": [
+   "Do not stir the rice; stirring makes it creamy like risotto, not paella.",
+   "Use a wide, shallow pan so the rice cooks in a thin layer."
+  ],
+  "mistakes": [
+   "Too much liquid makes the rice soft."
+  ],
+  "storage": "Refrigerate within 1 hour; use within 2 days.",
+  "reheat": "Reheat until steaming hot.",
+  "subs": [
+   "rabbit>chicken-thigh|more chicken"
+  ],
+  "tags": [
+   "rice",
+   "saffron",
+   "one-pan"
+  ],
+  "occasion": [
+   "Sunday lunch",
+   "gatherings"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "moussaka",
+  "name": "Moussaka",
+  "local": "Μουσακάς",
+  "tr": {
+   "fr": "Moussaka",
+   "ar": "مسقعة يونانية"
+  },
+  "desc": "Layers of fried aubergine and potato, spiced lamb or beef ragù and a thick béchamel, baked until golden.",
+  "origin_note": "The Greek baked layered form with béchamel was codified in the 20th century (credited to chef Nikolaos Tselementes); similar eggplant dishes exist across the Middle East and Balkans under the same name.",
+  "confidence": "medium",
+  "countries": [
+   "GR"
+  ],
+  "primary": "GR",
+  "cuisine": "Greek",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 40,
+  "cook": 75,
+  "rest": 15,
+  "serves": 8,
+  "diff": "Hard",
+  "ing": [
+   "3|eggplant|sliced 1 cm",
+   "3|potato|sliced thin",
+   "6 tbsp|olive-oil",
+   "1|onion|chopped",
+   "3|garlic|crushed",
+   "600 g|lamb-mince|or beef",
+   "400 g|tomato-canned|crushed",
+   "1|cinnamon-stick",
+   "1/2 tsp|allspice",
+   "1 tsp|salt",
+   "60 g|butter",
+   "60 g|flour-wheat",
+   "600 ml|milk",
+   "2|egg-yolk",
+   "60 g|kefalotyri|grated, or parmesan"
+  ],
+  "steps": [
+   "Prepare the vegetables|25|Heat the oven to 200 °C. Brush eggplant and potato slices with olive oil, season and roast on trays 20 to 25 minutes, turning once, until golden.",
+   "Make the ragù|25|Cook the onion in 1 tbsp oil 5 minutes, add garlic and the meat; brown 8 minutes until no pink remains. Add the tomatoes, cinnamon, allspice and salt and simmer 15 minutes until thick. Remove the cinnamon stick.",
+   "Make the béchamel|10|Melt the butter, stir in the flour for 1 minute, then whisk in the milk gradually. Cook, stirring, 6 to 8 minutes until thick. Off the heat, whisk in the yolks and half the cheese.",
+   "Assemble|10|Lower the oven to 180 °C. Layer potato, eggplant, ragù, then more eggplant in a deep dish; top with béchamel and the remaining cheese.",
+   "Bake|45|Bake 40 to 45 minutes until golden and bubbling and the centre is hot.",
+   "Rest|15|Rest at least 15 minutes before cutting so it sets."
+  ],
+  "tips": [
+   "Resting is essential for clean slices.",
+   "Roasting instead of frying the eggplant uses less oil."
+  ],
+  "mistakes": [
+   "Cutting while hot makes layers slide."
+  ],
+  "storage": "Refrigerate up to 3 days; freezes well.",
+  "reheat": "Reheat covered at 180 °C until hot throughout.",
+  "subs": [
+   "lamb-mince>lentils-brown|vegetarian version, cooked lentils"
+  ],
+  "tags": [
+   "baked",
+   "greek",
+   "comfort"
+  ],
+  "occasion": [
+   "family dinner"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "pierogi-ruskie",
+  "name": "Pierogi ruskie",
+  "local": "Pierogi ruskie",
+  "tr": {
+   "fr": "Pierogi ruskie",
+   "ar": "بيروغي بالبطاطس والجبن"
+  },
+  "desc": "Tender half-moon dumplings filled with potato, farmer’s cheese and onion, boiled then pan-fried in butter.",
+  "origin_note": "A staple of Polish cuisine. The name ruskie refers to Ruthenia (a historical region), not Russia; similar filled dumplings are eaten across Eastern Europe.",
+  "confidence": "high",
+  "countries": [
+   "PL"
+  ],
+  "primary": "PL",
+  "cuisine": "Polish",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 50,
+  "cook": 15,
+  "rest": 30,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "400 g|flour-wheat",
+   "1|egg",
+   "200 ml|water|warm",
+   "1/2 tsp|salt",
+   "500 g|potato|peeled, boiled and mashed",
+   "250 g|farmers-cheese|crumbled",
+   "1|onion|finely chopped",
+   "30 g|butter|for onions",
+   "1/2 tsp|black-pepper",
+   "40 g|butter|for frying",
+   "100 ml|sour-cream|to serve"
+  ],
+  "steps": [
+   "Make the dough|35|Mix flour, egg, salt and warm water and knead 5 minutes until smooth and elastic. Cover and rest 30 minutes.",
+   "Make the filling|12|Fry the onion in 30 g butter 8 to 10 minutes until golden. Mix with the potato, cheese, pepper and salt; cool.",
+   "Cut and fill|20|Roll the dough thinly (2 mm), cut 8 cm circles, place a spoonful of filling in each, fold and pinch the edges firmly to seal.",
+   "Boil|5|Cook in batches in gently boiling salted water about 3 to 4 minutes after they float, until tender.",
+   "Pan-fry|6|Fry the boiled pierogi in 40 g butter 2 to 3 minutes per side until golden. Serve with sour cream."
+  ],
+  "tips": [
+   "Keep dough covered so it does not dry out.",
+   "Seal edges well so they do not burst."
+  ],
+  "mistakes": [
+   "Overfilling makes the edges split."
+  ],
+  "storage": "Refrigerate cooked up to 3 days; freeze uncooked on a tray then bag.",
+  "reheat": "Pan-fry in butter until hot throughout.",
+  "subs": [
+   "farmers-cheese>ricotta|softer"
+  ],
+  "tags": [
+   "dumplings",
+   "vegetarian",
+   "comfort"
+  ],
+  "occasion": [
+   "family dinner",
+   "Christmas Eve"
+  ],
+  "refs": [],
+  "related": [
+   "borscht"
+  ]
+ },
+ {
+  "id": "gulyas",
+  "name": "Gulyás",
+  "local": "Gulyás",
+  "tr": {
+   "fr": "Goulache hongroise",
+   "ar": "غولاش مجري"
+  },
+  "desc": "A Hungarian beef and paprika soup-stew with onion, potato and caraway, simmered until the meat is tender.",
+  "origin_note": "Gulyás originates with Hungarian herdsmen (gulyás means cattle herder) and is a national dish of Hungary. Goulash-style stews in neighbouring countries differ.",
+  "confidence": "high",
+  "countries": [
+   "HU"
+  ],
+  "primary": "HU",
+  "cuisine": "Hungarian",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main",
+   "soup"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 120,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Easy",
+  "ing": [
+   "800 g|beef-stew-meat|cut in 3 cm cubes",
+   "3 tbsp|sunflower-oil",
+   "3|onion|chopped",
+   "3|garlic|crushed",
+   "2 tbsp|paprika|sweet Hungarian",
+   "1 tsp|caraway-seed",
+   "2|tomato|chopped",
+   "1|bell-pepper|diced",
+   "600 g|potato|peeled, diced",
+   "1.2 l|water",
+   "1 tsp|salt"
+  ],
+  "steps": [
+   "Cook the onions|12|Heat the oil in a heavy pot over medium heat and cook the onions 10 to 12 minutes until very soft and golden.",
+   "Add paprika|2|Take the pot off the heat, stir in the paprika (it burns easily) and caraway, then the garlic.",
+   "Brown the beef|8|Return to medium heat, add the beef and stir 6 to 8 minutes until coated and no longer raw on the outside.",
+   "Simmer|75|Add the tomatoes, pepper, salt and water. Cover and simmer gently 75 minutes until the beef is nearly tender.",
+   "Add potatoes|30|Add the potatoes and cook 25 to 30 minutes until tender and the broth is slightly thickened."
+  ],
+  "tips": [
+   "Remove from the heat when adding paprika to avoid bitterness.",
+   "Taste and adjust the salt at the end."
+  ],
+  "mistakes": [
+   "Boiling hard toughens the beef."
+  ],
+  "storage": "Refrigerate up to 4 days; freezes well.",
+  "reheat": "Reheat until steaming hot.",
+  "subs": [
+   "beef-stew-meat>pork-shoulder|traditional alternative"
+  ],
+  "tags": [
+   "stew",
+   "paprika",
+   "hungarian"
+  ],
+  "occasion": [
+   "winter dinner"
+  ],
+  "refs": [],
+  "related": [
+   "borscht"
+  ]
+ },
+ {
+  "id": "borscht",
+  "name": "Borscht",
+  "local": "Борщ",
+  "tr": {
+   "fr": "Bortsch",
+   "ar": "بورش"
+  },
+  "desc": "A ruby-red soup of beetroot, cabbage, potato and carrot with beef or vegetables and a splash of vinegar, served with sour cream and dill.",
+  "origin_note": "Ukrainian borscht cooking culture was inscribed by UNESCO in 2022 (urgent safeguarding list). Beetroot soups are also eaten across Poland, Russia, Belarus and Lithuania in different versions, so recipes differ by region and family.",
+  "confidence": "high",
+  "countries": [
+   "UA"
+  ],
+  "primary": "UA",
+  "cuisine": "Ukrainian",
+  "meal": [
+   "soup",
+   "lunch",
+   "dinner"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 75,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "500 g|beef-stew-meat|bone-in short rib is traditional",
+   "2.2 l|water",
+   "1|onion|chopped",
+   "2|carrot|grated",
+   "3|beetroot|peeled, grated",
+   "3 tbsp|sunflower-oil",
+   "2 tbsp|tomato-paste",
+   "300 g|potato|diced",
+   "300 g|cabbage|shredded",
+   "2 tbsp|vinegar-white",
+   "1 tsp|sugar",
+   "2|garlic|crushed",
+   "1 tsp|salt",
+   "1 bunch|dill|chopped",
+   "100 ml|sour-cream|to serve"
+  ],
+  "steps": [
+   "Make the broth|60|Cover the beef with the water, bring to a boil, skim, then simmer 60 minutes until tender. Remove the meat, shred and return.",
+   "Fry the vegetables|12|Fry the onion in oil 4 minutes, add the carrot and cook 3 minutes, then the beetroot, tomato paste, vinegar and sugar and cook 5 to 6 minutes. The vinegar keeps the beetroot red.",
+   "Cook potatoes|10|Add the potatoes to the broth and cook 10 minutes.",
+   "Add cabbage and fry mix|15|Add the cabbage and the fried vegetables; simmer 12 to 15 minutes until everything is tender.",
+   "Finish|5|Stir in the garlic, salt and half the dill, rest 5 minutes and serve with sour cream and the remaining dill."
+  ],
+  "tips": [
+   "Vinegar or lemon preserves the red colour.",
+   "Borscht is often better the next day."
+  ],
+  "mistakes": [
+   "Overcooking beetroot dulls the colour."
+  ],
+  "storage": "Refrigerate up to 4 days.",
+  "reheat": "Reheat until steaming.",
+  "subs": [
+   "beef-stew-meat>mushroom|vegetarian, use vegetable stock"
+  ],
+  "tags": [
+   "soup",
+   "beetroot",
+   "ukrainian"
+  ],
+  "occasion": [
+   "family meal"
+  ],
+  "refs": [],
+  "related": [
+   "pierogi-ruskie",
+   "gulyas"
+  ]
+ },
+ {
+  "id": "ratatouille",
+  "name": "Ratatouille",
+  "local": "Ratatouille",
+  "tr": {
+   "fr": "Ratatouille",
+   "ar": "راتاتوي"
+  },
+  "desc": "A slow-stewed medley of aubergine, courgette, peppers and tomatoes in olive oil with garlic and herbs, a summer dish from Provence.",
+  "origin_note": "Ratatouille comes from Nice and the Provence region of southern France. It is a rustic home dish; the layered ‘confit byaldi’ is a later restaurant variation.",
+  "confidence": "high",
+  "countries": [
+   "FR"
+  ],
+  "primary": "FR",
+  "cuisine": "Provençal (French)",
+  "meal": [
+   "lunch",
+   "dinner",
+   "side"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 50,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "5 tbsp|olive-oil",
+   "1|eggplant|cubed 2 cm",
+   "2|zucchini|cubed 2 cm",
+   "1|bell-pepper|red, diced",
+   "1|bell-pepper|yellow, diced",
+   "1|onion|chopped",
+   "3|garlic|sliced",
+   "500 g|tomato|ripe, chopped",
+   "2|thyme-fresh|sprigs",
+   "1 tsp|salt",
+   "1 handful|basil|torn"
+  ],
+  "steps": [
+   "Brown the eggplant|10|Heat 2 tbsp oil in a wide pot over medium-high heat and brown the eggplant 8 to 10 minutes; set aside.",
+   "Brown the courgette and peppers|10|Add 1 tbsp oil, brown the courgettes and peppers 8 to 10 minutes; set aside.",
+   "Soften the onion|8|Add the remaining oil, cook the onion 6 minutes, add the garlic for 1 minute.",
+   "Stew|35|Add the tomatoes, thyme and salt and cook 8 minutes until saucy. Return all the vegetables and simmer gently, partly covered, 25 to 30 minutes until soft but not collapsed.",
+   "Finish|2|Remove thyme stems, stir in basil and serve warm or at room temperature."
+  ],
+  "tips": [
+   "Cooking the vegetables separately keeps their shape.",
+   "It tastes better the next day."
+  ],
+  "mistakes": [
+   "Overcrowding the pan steams instead of browns."
+  ],
+  "storage": "Refrigerate up to 5 days.",
+  "reheat": "Serve cold, or reheat gently.",
+  "subs": [
+   "thyme-fresh>oregano-dried|use 1 tsp"
+  ],
+  "tags": [
+   "vegan",
+   "vegetables",
+   "provence"
+  ],
+  "occasion": [
+   "summer"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "dal-tadka",
+  "name": "Dal tadka",
+  "local": "दाल तड़का",
+  "tr": {
+   "fr": "Dal tadka",
+   "ar": "دال تادكا"
+  },
+  "desc": "Yellow lentils cooked until creamy and finished with a sizzling tempering (tadka) of ghee, cumin, garlic and chilli poured over the top.",
+  "origin_note": "Dal with a tadka is a staple across the Indian subcontinent (India, Pakistan, Nepal, Bangladesh, Sri Lanka) with countless regional versions; this is a North Indian-style home recipe.",
+  "confidence": "high",
+  "countries": [
+   "IN"
+  ],
+  "primary": "IN",
+  "cuisine": "North Indian",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 35,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "200 g|lentils-yellow|toor or moong, rinsed",
+   "1 l|water",
+   "1/2 tsp|turmeric",
+   "1 tsp|salt",
+   "2 tbsp|ghee",
+   "1 tsp|cumin-seed",
+   "1|onion|finely chopped",
+   "3|garlic|chopped",
+   "1 tbsp|ginger-fresh|grated",
+   "2|tomato|chopped",
+   "1/2 tsp|chili-powder",
+   "1/2 tsp|garam-masala",
+   "1 handful|coriander|chopped"
+  ],
+  "steps": [
+   "Cook the lentils|25|Simmer the lentils with the water and turmeric, partly covered, 20 to 25 minutes, skimming foam, until completely soft and starting to break down. Stir in the salt.",
+   "Make the tadka|10|Heat the ghee in a small pan over medium heat. Add the cumin seeds; when they sizzle (about 30 seconds) add the onion and cook 4 minutes. Add the garlic and ginger for 1 minute, then the tomatoes and chilli powder and cook 4 minutes until soft.",
+   "Combine|3|Pour the tadka into the dal, stir and simmer 3 minutes. Add the garam masala and half the coriander.",
+   "Serve|1|Top with the remaining coriander and serve with rice or flatbread."
+  ],
+  "tips": [
+   "Do not let the cumin burn; it should sizzle but not blacken.",
+   "Add hot water if the dal thickens."
+  ],
+  "mistakes": [
+   "Salting lentils at the start can slow softening."
+  ],
+  "storage": "Refrigerate up to 4 days; freezes well.",
+  "reheat": "Add water and reheat until steaming.",
+  "subs": [
+   "ghee>sunflower-oil|vegan"
+  ],
+  "tags": [
+   "lentils",
+   "vegetarian",
+   "staple"
+  ],
+  "occasion": [
+   "everyday"
+  ],
+  "refs": [],
+  "related": [
+   "butter-chicken"
+  ]
+ },
+ {
+  "id": "butter-chicken",
+  "name": "Butter chicken",
+  "local": "मुर्ग़ मखनी",
+  "alt": [
+   "Murgh makhani"
+  ],
+  "tr": {
+   "fr": "Poulet au beurre",
+   "ar": "دجاج بالزبدة"
+  },
+  "desc": "Tender marinated chicken in a smooth, mildly spiced tomato and butter-cream sauce, best with naan or rice.",
+  "origin_note": "Murgh makhani is widely credited to the Moti Mahal restaurant in Delhi in the mid-20th century; the dish has been the subject of disputed claims between restaurants, so the story is treated as popular history rather than settled fact.",
+  "confidence": "medium",
+  "countries": [
+   "IN"
+  ],
+  "primary": "IN",
+  "cuisine": "Punjabi (North Indian)",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 40,
+  "rest": 120,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "700 g|chicken-thigh|boneless, cut in chunks",
+   "150 g|yogurt-plain",
+   "1 tbsp|lemon-juice",
+   "2 tsp|garam-masala",
+   "1 tsp|chili-powder",
+   "1 tbsp|ginger-garlic-paste",
+   "50 g|butter",
+   "1|onion|finely chopped",
+   "400 g|tomato-canned|crushed",
+   "1 tsp|cumin-ground",
+   "1 tsp|sugar",
+   "150 ml|cream",
+   "1 tsp|salt",
+   "1 tsp|fenugreek-leaves|dried (kasuri methi)"
+  ],
+  "steps": [
+   "Marinate|120|Mix the chicken with the yoghurt, lemon juice, 1 tsp garam masala, chilli powder, half the ginger-garlic paste and half the salt. Marinate at least 2 hours in the fridge.",
+   "Cook the chicken|12|Cook the chicken in a hot pan or under a hot grill 10 to 12 minutes, turning, until browned at the edges and cooked through (75 °C).",
+   "Make the sauce|15|Melt the butter over medium heat, cook the onion 6 minutes, add the remaining paste for 1 minute, then the tomatoes, cumin, sugar and remaining salt. Simmer 12 to 15 minutes, then blend until smooth.",
+   "Combine|10|Return the sauce to the pan, add the chicken and cream and simmer 8 to 10 minutes. Crush the fenugreek leaves over the top and add the remaining garam masala.",
+   "Serve|2|Spoon into warm bowls and serve hot with naan or basmati rice, finishing with a swirl of cream and a little chopped coriander if you like."
+  ],
+  "tips": [
+   "Charring the chicken adds the characteristic smoky note.",
+   "Add the cream at the end and keep the heat low."
+  ],
+  "mistakes": [
+   "Boiling hard after adding cream can split the sauce."
+  ],
+  "storage": "Refrigerate up to 3 days; freezes well without cream.",
+  "reheat": "Reheat gently until piping hot (75 °C).",
+  "subs": [
+   "cream>coconut-milk|dairy-free"
+  ],
+  "tags": [
+   "curry",
+   "chicken",
+   "punjabi"
+  ],
+  "occasion": [
+   "dinner party"
+  ],
+  "refs": [],
+  "related": [
+   "dal-tadka"
+  ]
+ },
+ {
+  "id": "shoyu-ramen",
+  "name": "Shoyu ramen",
+  "local": "醤油ラーメン",
+  "tr": {
+   "fr": "Ramen au shoyu",
+   "ar": "رامن بصلصة الصويا"
+  },
+  "desc": "Wheat noodles in a clear, savoury chicken broth seasoned with soy sauce, topped with a marinated soft egg, scallion and pork or chicken.",
+  "origin_note": "Ramen is a Japanese dish with Chinese culinary roots; shoyu (soy-sauce) ramen is associated with Tokyo. Regional styles (miso, tonkotsu, shio) differ. This is a home-friendly version, not a restaurant 12-hour broth.",
+  "confidence": "high",
+  "countries": [
+   "JP"
+  ],
+  "primary": "JP",
+  "cuisine": "Japanese",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 60,
+  "rest": 0,
+  "serves": 2,
+  "diff": "Medium",
+  "ing": [
+   "1 l|chicken-stock",
+   "2 tbsp|soy-sauce",
+   "1 tbsp|mirin",
+   "2|garlic|crushed",
+   "1 tbsp|ginger-fresh|sliced",
+   "2 tsp|sesame-oil",
+   "200 g|ramen-noodles",
+   "2|egg|soft-boiled and peeled",
+   "150 g|pork-belly|cooked, sliced, or roast chicken",
+   "2|onion-spring|sliced",
+   "1|nori|sheet, cut"
+  ],
+  "steps": [
+   "Simmer the broth|20|Simmer the stock with the garlic and ginger for 15 to 20 minutes, then strain.",
+   "Make the tare|2|Mix the soy sauce and mirin in each bowl (1 tbsp soy, 1/2 tbsp mirin per bowl) with 1 tsp sesame oil.",
+   "Soft-boil the eggs|7|Boil eggs 6.5 to 7 minutes, cool in ice water and peel; optionally marinate in a mix of soy and mirin for 2 hours.",
+   "Cook noodles|3|Boil the noodles as packet directed (about 2 to 3 minutes) in plenty of unsalted water; drain well.",
+   "Assemble|2|Pour the hot broth into the bowls over the tare, add the noodles, then top with sliced pork, egg halves, spring onion and nori. Eat at once."
+  ],
+  "tips": [
+   "Cook noodles separately so the broth stays clear.",
+   "Serve in warmed bowls."
+  ],
+  "mistakes": [
+   "Boiling noodles in the broth makes it cloudy."
+  ],
+  "storage": "Store broth separately up to 3 days.",
+  "reheat": "Bring the broth to a rolling boil before serving.",
+  "subs": [
+   "chicken-stock>vegetable-stock|vegetarian, with mushroom for depth"
+  ],
+  "tags": [
+   "noodles",
+   "soup",
+   "japanese"
+  ],
+  "occasion": [
+   "weeknight",
+   "comfort"
+  ],
+  "refs": [],
+  "related": [
+   "bibimbap"
+  ]
+ },
+ {
+  "id": "bibimbap",
+  "name": "Bibimbap",
+  "local": "비빔밥",
+  "tr": {
+   "fr": "Bibimbap",
+   "ar": "بيبيمباب"
+  },
+  "desc": "A bowl of warm rice topped with seasoned vegetables, marinated beef and a fried egg, mixed with gochujang just before eating.",
+  "origin_note": "Bibimbap is a traditional Korean dish; its mixing of rice with toppings has long roots, and the Jeonju and Jinju regional versions are famed.",
+  "confidence": "high",
+  "countries": [
+   "KR"
+  ],
+  "primary": "KR",
+  "cuisine": "Korean",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 35,
+  "cook": 20,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "400 g|rice-short-grain|cooked and warm",
+   "250 g|beef-mince|or thin-sliced beef",
+   "2 tbsp|soy-sauce",
+   "2 tsp|sugar",
+   "1 tbsp|sesame-oil",
+   "2|garlic|crushed",
+   "2|carrot|julienned",
+   "200 g|spinach",
+   "200 g|bean-sprouts",
+   "2|zucchini|julienned",
+   "4|egg",
+   "3 tbsp|gochujang",
+   "1 tbsp|sesame-seed|toasted",
+   "2 tbsp|sunflower-oil|for cooking"
+  ],
+  "steps": [
+   "Marinate the beef|10|Mix the beef with 1 tbsp soy, the sugar, 1/2 tbsp sesame oil and half the garlic; rest 10 minutes.",
+   "Blanch spinach and sprouts|6|Blanch the spinach 30 seconds and the bean sprouts 2 minutes in boiling water; drain, squeeze and season each with a little sesame oil, salt and garlic.",
+   "Stir-fry vegetables|8|Stir-fry the carrot and then the courgette separately, 2 to 3 minutes each, in a little oil with a pinch of salt.",
+   "Cook the beef|5|Stir-fry the beef over high heat 4 to 5 minutes until cooked through and browned.",
+   "Fry eggs|4|Fry the eggs sunny-side up in a little oil over medium heat for 2 to 3 minutes, until the whites are completely set and the yolks are still soft.",
+   "Assemble|3|Divide the rice among bowls, arrange the toppings in sections, add an egg and a spoon of gochujang, sprinkle with sesame seeds and mix well before eating."
+  ],
+  "tips": [
+   "Season each vegetable separately for distinct flavours.",
+   "A very hot stone bowl (dolsot) gives crispy rice."
+  ],
+  "mistakes": [
+   "Overcooking vegetables makes them limp."
+  ],
+  "storage": "Store components separately up to 2 days.",
+  "reheat": "Reheat rice and beef; cook the egg fresh.",
+  "subs": [
+   "beef-mince>tofu|vegetarian"
+  ],
+  "tags": [
+   "rice-bowl",
+   "korean",
+   "vegetables"
+  ],
+  "occasion": [
+   "lunch"
+  ],
+  "refs": [],
+  "related": [
+   "shoyu-ramen"
+  ]
+ },
+ {
+  "id": "mapo-tofu",
+  "name": "Mapo tofu",
+  "local": "麻婆豆腐",
+  "tr": {
+   "fr": "Mapo tofu",
+   "ar": "توفو مابو"
+  },
+  "desc": "Silky tofu in a fiery, numbing sauce of fermented broad-bean paste, chilli and Sichuan pepper with minced meat.",
+  "origin_note": "Mapo tofu is a classic of Sichuan cuisine in China, traditionally associated with Chengdu; the name refers to a pockmarked old woman (mapo), per popular accounts.",
+  "confidence": "high",
+  "countries": [
+   "CN"
+  ],
+  "primary": "CN",
+  "cuisine": "Sichuan (Chinese)",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 15,
+  "cook": 15,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "400 g|tofu-silken|firm, cut in 2 cm cubes",
+   "3 tbsp|sunflower-oil",
+   "150 g|pork-mince",
+   "2 tbsp|doubanjiang|Sichuan chilli bean paste",
+   "3|garlic|chopped",
+   "1 tbsp|ginger-fresh|grated",
+   "250 ml|chicken-stock",
+   "1 tbsp|soy-sauce",
+   "1 tsp|sichuan-pepper|ground",
+   "1 tbsp|cornstarch|mixed with 2 tbsp water",
+   "3|onion-spring|sliced"
+  ],
+  "steps": [
+   "Prepare the tofu|5|Simmer the tofu cubes in lightly salted water 3 to 5 minutes, then drain gently; this firms and seasons them.",
+   "Fry the base|5|Heat the oil in a wok over medium-high heat, cook the pork until browned and cooked through (3 to 4 minutes), then add the doubanjiang and fry 1 minute until the oil turns red. Add the garlic and ginger for 30 seconds.",
+   "Simmer|5|Add the stock and soy sauce, bring to a simmer and slide in the tofu. Simmer 5 minutes, pushing gently, without breaking it.",
+   "Thicken|2|Stir the cornstarch slurry, add in two parts, and simmer 1 to 2 minutes until the sauce clings.",
+   "Finish|1|Top with Sichuan pepper and spring onion. Serve with steamed rice."
+  ],
+  "tips": [
+   "Toast and grind Sichuan peppercorns fresh for numbing aroma.",
+   "Push the tofu with the back of a spoon, do not stir hard."
+  ],
+  "mistakes": [
+   "Stirring roughly breaks the tofu."
+  ],
+  "storage": "Refrigerate up to 2 days.",
+  "reheat": "Reheat gently.",
+  "subs": [
+   "pork-mince>mushroom|vegetarian, finely chopped"
+  ],
+  "tags": [
+   "spicy",
+   "tofu",
+   "sichuan"
+  ],
+  "occasion": [
+   "weeknight"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "pad-thai",
+  "name": "Pad thai",
+  "local": "ผัดไทย",
+  "tr": {
+   "fr": "Pad thaï",
+   "ar": "باد تاي"
+  },
+  "desc": "Stir-fried rice noodles with prawns, egg, tofu and bean sprouts in a sweet-sour-salty tamarind sauce, topped with peanuts and lime.",
+  "origin_note": "Pad thai became a national dish of Thailand in the 20th century, promoted in the 1930s–40s; its roots mix Chinese noodle-frying with Thai flavours.",
+  "confidence": "high",
+  "countries": [
+   "TH"
+  ],
+  "primary": "TH",
+  "cuisine": "Thai",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main",
+   "street-food"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 10,
+  "rest": 0,
+  "serves": 2,
+  "diff": "Medium",
+  "ing": [
+   "200 g|rice-noodles|flat, 5 mm",
+   "3 tbsp|tamarind-paste",
+   "2 tbsp|fish-sauce",
+   "2 tbsp|palm-sugar",
+   "3 tbsp|sunflower-oil",
+   "200 g|prawns|peeled",
+   "100 g|tofu-firm|cubed",
+   "2|garlic|chopped",
+   "2|egg",
+   "100 g|bean-sprouts",
+   "3|onion-spring|cut in 4 cm pieces",
+   "40 g|peanuts|roasted, crushed",
+   "1|lime|cut in wedges"
+  ],
+  "steps": [
+   "Soak the noodles|20|Soak the noodles in warm tap water 15 to 20 minutes until pliable but still firm; drain.",
+   "Make the sauce|3|Stir together the tamarind paste, fish sauce and palm sugar until dissolved.",
+   "Fry the protein|4|Heat the oil in a wok over high heat. Fry the tofu 2 minutes, then the garlic and prawns until the prawns turn pink (about 2 minutes).",
+   "Add noodles and sauce|3|Push to the side, scramble the eggs, then add the noodles and sauce and toss 2 to 3 minutes until the noodles are tender and coated.",
+   "Finish|1|Toss in sprouts and spring onion, serve with peanuts and lime."
+  ],
+  "tips": [
+   "Do not over-soak the noodles; they finish cooking in the wok.",
+   "Cook in two batches for a wok that is not huge."
+  ],
+  "mistakes": [
+   "Crowding the wok steams the noodles."
+  ],
+  "storage": "Best fresh.",
+  "reheat": "Reheat in a hot pan with a splash of water.",
+  "subs": [
+   "prawns>tofu-firm|vegetarian: omit prawns and use extra tofu; also replace fish sauce with soy sauce"
+  ],
+  "tags": [
+   "noodles",
+   "street-food",
+   "stir-fry"
+  ],
+  "occasion": [
+   "weeknight"
+  ],
+  "refs": [],
+  "related": [
+   "nasi-goreng"
+  ]
+ },
+ {
+  "id": "chicken-adobo",
+  "name": "Chicken adobo",
+  "tr": {
+   "fr": "Poulet adobo",
+   "ar": "دجاج أدوبو"
+  },
+  "desc": "Chicken braised in vinegar, soy sauce, garlic and bay leaves until tender and glossy, a daily staple of the Philippines.",
+  "origin_note": "Adobo is considered a national dish of the Philippines; the name comes from the Spanish adobar but the vinegar-based cooking method predates colonisation. Mexican and Spanish adobos are different dishes.",
+  "confidence": "high",
+  "countries": [
+   "PH"
+  ],
+  "primary": "PH",
+  "cuisine": "Filipino",
+  "meal": [
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 10,
+  "cook": 45,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "1 kg|chicken-thigh|bone-in",
+   "80 ml|soy-sauce",
+   "80 ml|vinegar-cane",
+   "6|garlic|crushed",
+   "3|bay-leaf",
+   "1 tsp|black-peppercorn",
+   "250 ml|water",
+   "1 tbsp|sunflower-oil",
+   "1 tsp|sugar"
+  ],
+  "steps": [
+   "Marinate|15|Combine the chicken with the soy sauce, vinegar, garlic, bay leaves and peppercorns and marinate 15 minutes or up to overnight in the fridge.",
+   "Braise|25|Put everything in a pot with the water; bring to a boil without stirring for 2 minutes, then cover and simmer 25 minutes until the chicken is tender.",
+   "Brown|10|Lift out the chicken, pat dry and brown in the oil 3 to 4 minutes per side. Meanwhile reduce the sauce 6 to 8 minutes, adding the sugar.",
+   "Finish|2|Return the chicken to the sauce, coat well and serve over steamed rice."
+  ],
+  "tips": [
+   "Do not stir right after adding vinegar; letting it boil first mellows its sharpness.",
+   "Reduce the sauce until syrupy."
+  ],
+  "mistakes": [
+   "Using too much vinegar makes it harsh."
+  ],
+  "storage": "Refrigerate up to 4 days; tastes better the next day.",
+  "reheat": "Reheat until piping hot.",
+  "subs": [
+   "vinegar-cane>vinegar-white|sharper"
+  ],
+  "tags": [
+   "braise",
+   "chicken",
+   "filipino"
+  ],
+  "occasion": [
+   "everyday"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "nasi-goreng",
+  "name": "Nasi goreng",
+  "tr": {
+   "fr": "Nasi goreng",
+   "ar": "ناسي غورينغ"
+  },
+  "desc": "Indonesian fried rice sweetened and darkened with kecap manis and seasoned with shallots, garlic and chilli, topped with a fried egg.",
+  "origin_note": "Nasi goreng is a national dish of Indonesia and is also common in Malaysia and Singapore; it began as a way to reuse leftover rice.",
+  "confidence": "high",
+  "countries": [
+   "ID"
+  ],
+  "primary": "ID",
+  "cuisine": "Indonesian",
+  "meal": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 15,
+  "cook": 12,
+  "rest": 0,
+  "serves": 2,
+  "diff": "Easy",
+  "ing": [
+   "400 g|rice-white|cooked and chilled overnight",
+   "3 tbsp|sunflower-oil",
+   "3|shallot|sliced",
+   "3|garlic|chopped",
+   "2|chili-fresh|sliced",
+   "150 g|chicken-breast|diced",
+   "3 tbsp|kecap-manis",
+   "1 tbsp|soy-sauce",
+   "2|egg|for frying",
+   "1|cucumber|sliced",
+   "1|tomato|sliced",
+   "2|onion-spring|sliced"
+  ],
+  "steps": [
+   "Fry aromatics|3|Heat 2 tbsp oil in a wok over medium-high heat. Fry the shallots, garlic and chillies 2 to 3 minutes until fragrant.",
+   "Cook the chicken|5|Add the chicken and stir-fry 4 to 5 minutes until cooked through with no pink.",
+   "Add rice|4|Add the cold rice, breaking up clumps, and stir-fry 3 minutes. Add the kecap manis and soy sauce and toss until evenly coloured and hot.",
+   "Fry eggs|3|Fry the eggs in the remaining oil until the whites are set.",
+   "Serve|1|Plate the rice with cucumber, tomato, spring onion and a fried egg on top."
+  ],
+  "tips": [
+   "Cold, day-old rice stir-fries better than freshly cooked rice.",
+   "Cool leftover rice quickly and refrigerate within an hour."
+  ],
+  "mistakes": [
+   "Using warm fresh rice makes it clumpy."
+  ],
+  "storage": "Eat promptly; refrigerate within 1 hour and use within 1 day.",
+  "reheat": "Reheat until steaming hot.",
+  "subs": [
+   "kecap-manis>soy-sauce|add 1 tbsp brown sugar"
+  ],
+  "tags": [
+   "fried-rice",
+   "indonesian",
+   "street-food"
+  ],
+  "occasion": [
+   "everyday"
+  ],
+  "refs": [],
+  "related": [
+   "pad-thai"
+  ]
+ },
+ {
+  "id": "pho-bo",
+  "name": "Phở bò",
+  "local": "Phở bò",
+  "tr": {
+   "fr": "Pho au bœuf",
+   "ar": "فو بو"
+  },
+  "desc": "A fragrant Vietnamese noodle soup: a clear beef broth spiced with charred onion, ginger, star anise and cinnamon, ladled over rice noodles and thin beef.",
+  "origin_note": "Phở originated in northern Vietnam (Hanoi area) in the early 20th century and later spread south with regional variations in garnish and sweetness.",
+  "confidence": "high",
+  "countries": [
+   "VN"
+  ],
+  "primary": "VN",
+  "cuisine": "Vietnamese",
+  "meal": [
+   "breakfast",
+   "lunch",
+   "soup",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 180,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Hard",
+  "ing": [
+   "1 kg|beef-bones|marrow and knuckle bones",
+   "2|onion|halved, charred",
+   "1|ginger-fresh|100 g piece, charred",
+   "2|star-anise",
+   "1|cinnamon-stick",
+   "3|clove",
+   "2 tbsp|fish-sauce",
+   "1 tbsp|sugar",
+   "3 l|water",
+   "400 g|rice-noodles|flat",
+   "200 g|beef-sirloin|very thinly sliced",
+   "1 handful|bean-sprouts",
+   "1 handful|basil|thai basil leaves",
+   "1|lime|cut in wedges",
+   "2|onion-spring|sliced"
+  ],
+  "steps": [
+   "Blanch the bones|10|Cover the bones with water, boil 5 to 10 minutes, then drain and rinse to get a clear broth.",
+   "Char the aromatics|10|Char the onion and ginger over a flame or under a hot grill until blackened in spots; rinse lightly.",
+   "Simmer the broth|165|Return the bones to a clean pot with the 3 l water, charred aromatics, spices, fish sauce and sugar. Simmer very gently 2.5 to 3 hours, skimming; strain and season.",
+   "Prepare noodles|5|Soak or boil the noodles until tender; drain into bowls.",
+   "Assemble|2|Lay the raw beef slices over the noodles and pour over boiling broth; the heat cooks the slices. Serve with sprouts, basil, lime and spring onion."
+  ],
+  "tips": [
+   "Keep the broth at a bare simmer for clarity.",
+   "The beef must be sliced paper-thin."
+  ],
+  "mistakes": [
+   "Boiling hard clouds the broth."
+  ],
+  "storage": "Broth keeps 4 days refrigerated or 3 months frozen.",
+  "reheat": "Bring broth to a full boil before serving.",
+  "subs": [
+   "beef-sirloin>chicken-breast|use chicken broth"
+  ],
+  "tags": [
+   "noodle-soup",
+   "vietnamese",
+   "broth"
+  ],
+  "occasion": [
+   "weekend cooking"
+  ],
+  "refs": [],
+  "related": [
+   "shoyu-ramen"
+  ]
+ },
+ {
+  "id": "tacos-al-pastor",
+  "name": "Tacos al pastor",
+  "tr": {
+   "fr": "Tacos al pastor",
+   "ar": "تاكو الباستور"
+  },
+  "desc": "Thin slices of chilli- and achiote-marinated pork cooked until charred, served in small corn tortillas with pineapple, onion and coriander.",
+  "origin_note": "Tacos al pastor developed in Mexico City in the 20th century, influenced by Lebanese shawarma brought by immigrants; it is a distinctly Mexican adaptation.",
+  "confidence": "high",
+  "countries": [
+   "MX"
+  ],
+  "primary": "MX",
+  "cuisine": "Mexican",
+  "meal": [
+   "lunch",
+   "dinner",
+   "street-food"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 20,
+  "rest": 240,
+  "serves": 6,
+  "diff": "Medium",
+  "ing": [
+   "1 kg|pork-shoulder|thinly sliced",
+   "3|chili-guajillo|dried, deseeded and soaked",
+   "2 tbsp|achiote-paste",
+   "4|garlic",
+   "100 ml|orange-juice",
+   "3 tbsp|vinegar-white",
+   "1 tsp|cumin-ground",
+   "1 tsp|oregano-dried",
+   "1 tsp|salt",
+   "1/2|pineapple|sliced thin",
+   "18|tortilla-corn|small",
+   "1|onion|finely chopped",
+   "1 bunch|coriander|chopped",
+   "2|lime|cut in wedges"
+  ],
+  "steps": [
+   "Blend the marinade|5|Blend the soaked guajillos with the achiote, garlic, orange juice, vinegar, cumin, oregano and salt until smooth.",
+   "Marinate|240|Coat the pork in the marinade and chill 4 hours or overnight.",
+   "Cook the pork|15|Cook in a hot cast-iron pan in batches, 3 to 4 minutes per side, until browned and cooked through. Grill the pineapple slices alongside until charred.",
+   "Warm the tortillas|2|Heat the tortillas on a dry pan until soft and flecked with brown.",
+   "Assemble|3|Chop the pork and pineapple, fill tortillas, and top with onion, coriander and a squeeze of lime."
+  ],
+  "tips": [
+   "Slice pork thin for fast, charred edges.",
+   "Pineapple’s enzymes tenderise; do not marinate in it for hours."
+  ],
+  "mistakes": [
+   "Overcrowding the pan steams the pork."
+  ],
+  "storage": "Refrigerate cooked pork up to 3 days.",
+  "reheat": "Reheat in a hot pan until steaming.",
+  "subs": [
+   "chili-guajillo>chili-ancho|sweeter, less tangy"
+  ],
+  "tags": [
+   "tacos",
+   "street-food",
+   "pork",
+   "mexican"
+  ],
+  "occasion": [
+   "parties",
+   "street food"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "ceviche-peruano",
+  "name": "Ceviche peruano",
+  "tr": {
+   "fr": "Ceviche péruvien",
+   "ar": "سيفيتشي بيروفي"
+  },
+  "desc": "Cubes of very fresh white fish briefly ‘cooked’ in lime juice with red onion, chilli and coriander, served with sweet potato and corn.",
+  "origin_note": "Ceviche is a national dish of Peru (recognised as national cultural heritage in 2004); related raw-fish dishes exist along the Pacific coast of Latin America.",
+  "confidence": "high",
+  "countries": [
+   "PE"
+  ],
+  "primary": "PE",
+  "cuisine": "Peruvian",
+  "meal": [
+   "lunch",
+   "starter",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 0,
+  "rest": 10,
+  "serves": 4,
+  "diff": "Medium",
+  "ing": [
+   "600 g|white-fish-fillet|very fresh, sushi-grade, cut in 2 cm cubes",
+   "10|lime|juiced (about 200 ml)",
+   "1|onion|red, thinly sliced",
+   "1|chili-aji|or other hot chilli, minced",
+   "1 handful|coriander|chopped",
+   "1 tsp|salt",
+   "1|sweet-potato|boiled and sliced",
+   "1|corn-cob|boiled, sliced"
+  ],
+  "steps": [
+   "Chill and soak the onion|10|Rinse the sliced onion in cold water 5 minutes and drain, to soften its bite.",
+   "Season the fish|2|Toss the fish with the salt in a chilled bowl.",
+   "Cure|10|Pour the lime juice over the fish, add the chilli and cure 5 to 10 minutes, until the outside turns opaque but the centre is still tender.",
+   "Finish|2|Stir in onion and coriander and serve at once with the sweet potato and corn."
+  ],
+  "tips": [
+   "Use extremely fresh fish from a trusted supplier; it is not cooked with heat.",
+   "Serve immediately; fish turns tough if left too long."
+  ],
+  "mistakes": [
+   "Marinating for long hours makes the fish chalky."
+  ],
+  "storage": "Eat immediately; do not store.",
+  "reheat": "Not applicable.",
+  "subs": [
+   "lime>lemon|less aromatic"
+  ],
+  "tags": [
+   "seafood",
+   "raw-fish",
+   "peruvian"
+  ],
+  "occasion": [
+   "summer lunch"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "feijoada",
+  "name": "Feijoada",
+  "tr": {
+   "fr": "Feijoada",
+   "ar": "فيجوادا"
+  },
+  "desc": "A rich Brazilian stew of black beans simmered with smoked and salted pork, served with rice, sautéed greens and orange.",
+  "origin_note": "Feijoada is regarded as a national dish of Brazil, with Portuguese bean-and-meat stew roots; the popular story that it originated with enslaved people is contested by historians, so the dish’s social origin is treated as uncertain even though its association with Brazil is not.",
+  "confidence": "medium",
+  "countries": [
+   "BR"
+  ],
+  "primary": "BR",
+  "cuisine": "Brazilian",
+  "meal": [
+   "lunch",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 150,
+  "rest": 480,
+  "serves": 8,
+  "diff": "Medium",
+  "ing": [
+   "500 g|black-beans-dried|soaked overnight",
+   "300 g|pork-ribs-smoked",
+   "250 g|sausage-smoked|sliced",
+   "200 g|bacon|diced",
+   "2 tbsp|sunflower-oil",
+   "1|onion|chopped",
+   "4|garlic|crushed",
+   "3|bay-leaf",
+   "1 tsp|salt",
+   "1 bunch|collard-greens|finely shredded",
+   "2|orange|sliced"
+  ],
+  "steps": [
+   "Soak|0|Soak the beans overnight in plenty of water; drain.",
+   "Start the stew|15|Place the beans, smoked ribs and bay leaves in a large pot with water to cover by 5 cm. Bring to a boil, skim, then simmer 1 hour.",
+   "Make the sofrito|12|Fry the bacon in oil until crisp, add the onion for 6 minutes and garlic for 1 minute; stir into the beans with the sausage.",
+   "Simmer to finish|60|Simmer another 60 to 80 minutes until the beans are creamy and meats tender; mash a few beans to thicken. Season to taste.",
+   "Serve|5|Quickly sauté the greens in a little oil and serve with the feijoada, white rice and orange slices."
+  ],
+  "tips": [
+   "Boil beans fully tender; undercooked dried beans can upset the stomach.",
+   "Orange slices cut the richness."
+  ],
+  "mistakes": [
+   "Salting too early with already-salty meats."
+  ],
+  "storage": "Refrigerate up to 4 days; freezes well.",
+  "reheat": "Reheat until steaming.",
+  "subs": [
+   "pork-ribs-smoked>mushroom|vegetarian version with smoked paprika"
+  ],
+  "tags": [
+   "beans",
+   "pork",
+   "stew",
+   "brazilian"
+  ],
+  "occasion": [
+   "weekend feast"
+  ],
+  "refs": [],
+  "related": [
+   "pao-de-queijo"
+  ]
+ },
+ {
+  "id": "pao-de-queijo",
+  "name": "Pão de queijo",
+  "local": "Pão de queijo",
+  "tr": {
+   "fr": "Pão de queijo",
+   "ar": "خبز الجبن البرازيلي"
+  },
+  "desc": "Chewy, cheesy Brazilian bread balls made with tapioca starch, naturally gluten-free, crisp outside and soft inside.",
+  "origin_note": "Pão de queijo is strongly associated with the state of Minas Gerais, Brazil, with the use of cassava starch rooted in Indigenous and Afro-Brazilian cooking.",
+  "confidence": "high",
+  "countries": [
+   "BR"
+  ],
+  "primary": "BR",
+  "cuisine": "Brazilian (Minas Gerais)",
+  "meal": [
+   "breakfast",
+   "snack"
+  ],
+  "tradition": "traditional",
+  "prep": 15,
+  "cook": 25,
+  "rest": 0,
+  "serves": 6,
+  "diff": "Easy",
+  "ing": [
+   "250 ml|milk",
+   "80 ml|sunflower-oil",
+   "1 tsp|salt",
+   "250 g|tapioca-starch|sour or sweet",
+   "2|egg",
+   "150 g|cheese-minas|grated, or parmesan/mozzarella mix"
+  ],
+  "steps": [
+   "Preheat|2|Heat the oven to 200 °C and line a tray with baking paper.",
+   "Scald the liquid|5|Bring the milk, oil and salt to a boil in a pan.",
+   "Mix the dough|5|Pour the hot liquid over the tapioca starch in a bowl and stir until a sticky dough forms; cool 5 minutes. Beat in the eggs one at a time, then the cheese.",
+   "Shape|5|With oiled hands roll into 3 cm balls and place 3 cm apart.",
+   "Bake|22|Bake 20 to 25 minutes until puffed and golden. Serve warm."
+  ],
+  "tips": [
+   "Dough should be soft and sticky.",
+   "Best eaten warm the same day."
+  ],
+  "mistakes": [
+   "Opening the oven early collapses the puff."
+  ],
+  "storage": "Keep 1 day in an airtight container; freeze unbaked balls.",
+  "reheat": "Reheat at 180 °C for 5 minutes.",
+  "subs": [
+   "cheese-minas>parmesan|sharper"
+  ],
+  "tags": [
+   "gluten-free",
+   "snack",
+   "cheese"
+  ],
+  "occasion": [
+   "breakfast"
+  ],
+  "refs": [],
+  "related": [
+   "feijoada"
+  ]
+ },
+ {
+  "id": "poutine",
+  "name": "Poutine",
+  "tr": {
+   "fr": "Poutine",
+   "ar": "بوتين"
+  },
+  "desc": "Crisp fries topped with fresh cheese curds and hot brown gravy that melts them slightly, a Québécois comfort food.",
+  "origin_note": "Poutine originated in rural Québec, Canada in the late 1950s; several towns and restaurants claim to have invented it, so its exact birthplace within Québec is disputed.",
+  "confidence": "medium",
+  "countries": [
+   "CA"
+  ],
+  "primary": "CA",
+  "cuisine": "Québécois (Canadian)",
+  "meal": [
+   "snack",
+   "main",
+   "street-food"
+  ],
+  "tradition": "modern",
+  "prep": 15,
+  "cook": 35,
+  "rest": 0,
+  "serves": 4,
+  "diff": "Easy",
+  "ing": [
+   "1 kg|potato|cut in fries, soaked and dried",
+   "500 ml|sunflower-oil|for frying",
+   "30 g|butter",
+   "30 g|flour-wheat",
+   "500 ml|beef-stock",
+   "1 tsp|worcestershire-sauce",
+   "1/2 tsp|black-pepper",
+   "250 g|cheese-curds|room temperature"
+  ],
+  "steps": [
+   "Make the gravy|12|Melt the butter, whisk in the flour and cook 2 minutes until light brown. Gradually whisk in the stock; simmer 8 to 10 minutes until thickened, then add the Worcestershire sauce and pepper.",
+   "Fry once|8|Heat oil to 160 °C and fry the potatoes in batches 6 to 8 minutes until cooked but pale; drain.",
+   "Fry twice|5|Raise the oil to 190 °C and fry again 2 to 3 minutes until golden and crisp; salt.",
+   "Assemble|2|Pile the fries in bowls, scatter the curds and pour over piping-hot gravy so the curds soften."
+  ],
+  "tips": [
+   "Curds should be fresh and squeaky; room temperature melts best.",
+   "Serve immediately before fries soften."
+  ],
+  "mistakes": [
+   "Cold gravy does not soften the curds."
+  ],
+  "storage": "Best fresh.",
+  "reheat": "Not recommended.",
+  "subs": [
+   "beef-stock>vegetable-stock|vegetarian"
+  ],
+  "tags": [
+   "fries",
+   "comfort",
+   "canadian"
+  ],
+  "occasion": [
+   "snack",
+   "game night"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "jerk-chicken",
+  "name": "Jamaican jerk chicken",
+  "tr": {
+   "fr": "Poulet jerk jamaïcain",
+   "ar": "دجاج جيرك جامايكي"
+  },
+  "desc": "Chicken marinated in a fiery blend of scotch bonnet, allspice, thyme and scallion, then grilled until smoky and charred.",
+  "origin_note": "Jerk is a Jamaican cooking style linked to the Maroon communities and the Taíno barbecue tradition; allspice (pimento) wood is traditionally used.",
+  "confidence": "high",
+  "countries": [
+   "JM"
+  ],
+  "primary": "JM",
+  "cuisine": "Jamaican",
+  "meal": [
+   "dinner",
+   "main"
+  ],
+  "tradition": "traditional",
+  "prep": 20,
+  "cook": 45,
+  "rest": 720,
+  "serves": 6,
+  "diff": "Easy",
+  "ing": [
+   "1.5 kg|chicken-pieces|leg quarters, skin on",
+   "3|onion-spring|chopped",
+   "1|scotch-bonnet|deseeded",
+   "1 tbsp|allspice",
+   "1 tbsp|thyme-fresh|leaves",
+   "3|garlic",
+   "2 tbsp|soy-sauce",
+   "2 tbsp|vinegar-white",
+   "1 tbsp|sugar|brown",
+   "1 tsp|salt",
+   "1 tbsp|sunflower-oil",
+   "1 tsp|black-pepper"
+  ],
+  "steps": [
+   "Make the jerk paste|5|Blend all the ingredients except the chicken into a rough paste. Wear gloves when handling scotch bonnet.",
+   "Marinate|0|Score the chicken, coat with the paste and marinate 12 hours or overnight in the fridge.",
+   "Cook|45|Grill over medium heat or roast at 200 °C for 40 to 45 minutes, turning, until charred and cooked through (75 °C at the thickest part).",
+   "Rest|10|Rest 10 minutes and serve with rice and peas or bread."
+  ],
+  "tips": [
+   "Marinating overnight gives the deepest flavour.",
+   "Keep a lid on a grill to create smoke."
+  ],
+  "mistakes": [
+   "Burning the sugar-rich marinade over high flame."
+  ],
+  "storage": "Refrigerate up to 3 days.",
+  "reheat": "Reheat to 75 °C.",
+  "subs": [
+   "scotch-bonnet>chili-fresh|milder"
+  ],
+  "tags": [
+   "grill",
+   "spicy",
+   "chicken",
+   "caribbean"
+  ],
+  "occasion": [
+   "barbecue"
+  ],
+  "refs": [],
+  "related": []
+ },
+ {
+  "id": "pavlova",
+  "name": "Pavlova",
+  "tr": {
+   "fr": "Pavlova",
+   "ar": "بافلوفا"
+  },
+  "desc": "A crisp-shelled, marshmallow-centred meringue cake topped with whipped cream and fresh fruit, such as strawberries, kiwi and passionfruit.",
+  "origin_note": "Named for the ballerina Anna Pavlova, who toured both countries in 1926. Australia and New Zealand have long disputed which invented it; the Oxford English Dictionary cites an early New Zealand recipe, while Australian sources point to a Perth chef in the 1930s. Historians note neither claim is settled.",
+  "confidence": "disputed",
+  "countries": [
+   "AU",
+   "NZ"
+  ],
+  "primary": "NZ",
+  "cuisine": "Australasian",
+  "meal": [
+   "dessert"
+  ],
+  "tradition": "traditional",
+  "prep": 25,
+  "cook": 75,
+  "rest": 60,
+  "serves": 8,
+  "diff": "Medium",
+  "ing": [
+   "4|egg-white|room temperature",
+   "220 g|sugar|caster",
+   "1 tsp|cornstarch",
+   "1 tsp|vinegar-white",
+   "1 tsp|vanilla-extract",
+   "300 ml|cream|whipping, cold",
+   "200 g|strawberries|halved",
+   "2|kiwi|sliced",
+   "2|passionfruit|pulp"
+  ],
+  "steps": [
+   "Preheat|2|Heat the oven to 150 °C (130 °C fan). Draw a 20 cm circle on baking paper and place it upside-down on a tray.",
+   "Whip the whites|8|Whisk the egg whites to soft peaks, then add the sugar a spoonful at a time, whisking until stiff, glossy peaks form and the sugar is dissolved (rub a little between your fingers: no grit).",
+   "Fold in|3|Sprinkle over the cornstarch, vinegar and vanilla and fold gently.",
+   "Shape|3|Pile the meringue inside the circle, smoothing the sides and making a slight dip in the top.",
+   "Bake|75|Reduce the oven to 120 °C and bake 70 to 75 minutes until the shell is dry and pale. Switch off and let it cool in the oven with the door ajar for at least 1 hour.",
+   "Decorate|10|Whip the cream to soft peaks, pile on top just before serving and add the fruit."
+  ],
+  "tips": [
+   "Make sure the bowl is grease-free; any fat prevents whites from whipping.",
+   "Top only when serving, or the meringue softens."
+  ],
+  "mistakes": [
+   "Opening the oven early causes cracks and collapse."
+  ],
+  "storage": "Store the unfilled shell airtight up to 2 days.",
+  "reheat": "Not applicable.",
+  "subs": [
+   "cream>yogurt-plain|thicker, tangier"
+  ],
+  "tags": [
+   "dessert",
+   "meringue",
+   "gluten-free"
+  ],
+  "occasion": [
+   "Christmas",
+   "celebrations"
+  ],
+  "refs": [
+   "https://en.wikipedia.org/wiki/Pavlova",
+   "https://www.rnz.co.nz/news/world/63353/oed-takes-stance-on-pavlova-recipe"
+  ],
+  "related": []
+ }
+]
